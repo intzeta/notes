@@ -159,6 +159,8 @@
   },
   "active": "bed1c36e291b6efc",
   "lastOpenFiles": [
+    "ssh-key.pub",
+    "ssh-key",
     "Excalidraw/MergeSort.excalidraw.md",
     "Sorting Algorithms/Sorting Algorithms.md",
     "LeetCode/49. Group Anagrams.md",
@@ -193,7 +195,6 @@
     "git-repo/publish/home.md",
     "git-repo/publish/get-project-id-account-id-and-token-vercel.md",
     "git-repo/publish/deploy-a-custom-linked-blog-starter.md",
-    "git-repo/publish/connect-obsidian-vault-with-github.md",
     "git-repo/publish/attachments/vercel-project-id.png",
     "git-repo/publish/attachments/vercel-create-token.png",
     "git-repo/publish/attachments/vercel-account-id.png",
@@ -203,7 +204,6 @@
     "git-repo-backup",
     "git-repo",
     "LeetCode",
-    "Attachments",
-    "Programming"
+    "Attachments"
   ]
 }
