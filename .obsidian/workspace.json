@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sorting Algorithms/Sorting Algorithms.md",
+                "file": "Big O Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorting Algorithms/Sorting Algorithms.md",
+                "file": "Big O Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sorting Algorithms/Sorting Algorithms.md",
+                "file": "Big O Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sorting Algorithms/Sorting Algorithms.md"
+                "file": "Big O Notation.md"
               }
             }
           }
@@ -159,10 +159,11 @@
   },
   "active": "bed1c36e291b6efc",
   "lastOpenFiles": [
+    "Sorting Algorithms/Sorting Algorithms.md",
+    "Big O Notation.md",
+    "Excalidraw/MergeSort.excalidraw.md",
     "ssh-key.pub",
     "ssh-key",
-    "Excalidraw/MergeSort.excalidraw.md",
-    "Sorting Algorithms/Sorting Algorithms.md",
     "LeetCode/49. Group Anagrams.md",
     "1-D DP.md",
     "Excalidraw/Drawing 2024-07-09 12.28.01.excalidraw.md",
@@ -170,7 +171,6 @@
     "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md",
     "Excalidraw",
     "Algorithms And Data Structure.md",
-    "Big O Notation.md",
     "Sorting Algorithms",
     "Linked List.md",
     "Advanced Graphs.md",
@@ -203,7 +203,6 @@
     "git-repo",
     "git-repo-backup",
     "git-repo",
-    "LeetCode",
-    "Attachments"
+    "LeetCode"
   ]
 }
