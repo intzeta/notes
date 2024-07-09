@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/LeetCode Questions List.md",
+                "file": "Algorithms And Data Structure/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/LeetCode Questions List.md",
+                "file": "Algorithms And Data Structure/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/LeetCode Questions List.md",
+                "file": "Algorithms And Data Structure/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/LeetCode Questions List.md"
+                "file": "Algorithms And Data Structure/Binary Search.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "1febcf43d25902b4",
   "lastOpenFiles": [
+    "LeetCode/LeetCode Questions List.md",
     "LeetCode/148. Sort List.md",
     "LeetCode/49. Group Anagrams.md",
     "Attachments/LeetCode148_2.jpg",
-    "LeetCode/LeetCode Questions List.md",
     "Attachments/LeetCode148_1.jpg",
     "Images/MergeSort1.excalidraw.md",
     "Algorithms And Data Structure/Linked List.md",
