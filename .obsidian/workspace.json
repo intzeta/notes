@@ -18,22 +18,19 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "7c7e432ffab40719",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1ad44ccd343ee4ea",
+            "id": "a97b604f50aeee2d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md"
+              }
             }
           }
         ]
@@ -153,13 +154,17 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ad44ccd343ee4ea",
+  "active": "a97b604f50aeee2d",
   "lastOpenFiles": [
-    "Algorithms And Data Structure.md",
     "Sorting Algorithms/Sorting Algorithms.md",
+    "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md",
+    "Excalidraw",
+    "Attachments/Pasted image 20240709115541.png",
+    "Algorithms And Data Structure.md",
     "Big O Notation.md",
     "Sorting Algorithms",
     "LeetCode/49. Group Anagrams.md",
@@ -190,7 +195,6 @@
     "git-repo/publish/attachments/vercel-project-id.png",
     "git-repo/publish/attachments/vercel-create-token.png",
     "git-repo/publish/attachments/vercel-account-id.png",
-    "git-repo/publish/attachments/publish-dir-yml.png",
     "git-repo/publish/attachments",
     "git-repo/publish/accepted-markdown-metadata.md",
     "git-repo/publish",
@@ -199,7 +203,6 @@
     "git-repo-backup",
     "Untitled.md",
     "git-repo",
-    "Two Pointers.md",
     "LeetCode",
     "Attachments",
     "Programming"

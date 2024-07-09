@@ -5,4 +5,4 @@
 
 #### Merge Sort O(n log n)
 
-- Merge sort is done by dividing the Array into smaller part - Left Array and Right Array, until they are all only 1 element. 
+- Merge sort is done by dividing the Array into smaller part - Left Array and Right Array, until they are all only 1 element.
