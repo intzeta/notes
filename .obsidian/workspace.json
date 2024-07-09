@@ -23,11 +23,16 @@
             "id": "1febcf43d25902b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/LeetCode Questions List.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/148. Sort List.md",
+                "file": "LeetCode/LeetCode Questions List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/148. Sort List.md",
+                "file": "LeetCode/LeetCode Questions List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/148. Sort List.md"
+                "file": "LeetCode/LeetCode Questions List.md"
               }
             }
           }
@@ -155,12 +160,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b438fb9ffafeb23",
+  "active": "1febcf43d25902b4",
   "lastOpenFiles": [
+    "LeetCode/148. Sort List.md",
     "LeetCode/49. Group Anagrams.md",
     "Attachments/LeetCode148_2.jpg",
     "LeetCode/LeetCode Questions List.md",
-    "LeetCode/148. Sort List.md",
     "Attachments/LeetCode148_1.jpg",
     "Images/MergeSort1.excalidraw.md",
     "Algorithms And Data Structure/Linked List.md",
