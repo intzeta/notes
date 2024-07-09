@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0bea6023f7c469d4",
+            "id": "0b438fb9ffafeb23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sorting Algorithms/Sorting Algorithms.md",
+                "file": "LeetCode/148. Sort List.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1febcf43d25902b4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorting Algorithms/Sorting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sorting Algorithms/Sorting Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sorting Algorithms/Sorting Algorithms.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,12 +152,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0bea6023f7c469d4",
+  "active": "1febcf43d25902b4",
   "lastOpenFiles": [
-    "Algorithms And Data Structure/Big O Notation.md",
-    "LeetCode/LeetCode Questions List.md",
-    "Sorting Algorithms/Sorting Algorithms.md",
     "Images/MergeSort1.excalidraw.md",
+    "LeetCode/LeetCode Questions List.md",
+    "LeetCode/148. Sort List.md",
+    "LeetCode/49. Group Anagrams.md",
+    "Algorithms And Data Structure/Linked List.md",
+    "Sorting Algorithms/Sorting Algorithms.md",
+    "Algorithms And Data Structure/Big O Notation.md",
     "Images/MergeSort2.excalidraw.md",
     "Images",
     "Algorithms And Data Structure/Algorithms And Data Structure.md",
@@ -161,14 +169,12 @@
     "Attachments/Big O Notation.png",
     "ssh-key.pub",
     "ssh-key",
-    "LeetCode/49. Group Anagrams.md",
     "Algorithms And Data Structure/1-D DP.md",
     "Excalidraw/Drawing 2024-07-09 12.28.01.excalidraw.md",
     "Attachments/Pasted image 20240709115541.png",
     "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md",
     "Excalidraw",
     "Sorting Algorithms",
-    "Algorithms And Data Structure/Linked List.md",
     "Algorithms And Data Structure/Advanced Graphs.md",
     "Algorithms And Data Structure/Arrays.md",
     "Algorithms And Data Structure/Backtracking.md",
@@ -188,7 +194,6 @@
     "git-repo/publish/linked-blog-starter-does-not-reinvent-wheel.md",
     "git-repo/publish/install-linked-blog-starter-locally.md",
     "git-repo/publish/how-linked-blog-starter-works.md",
-    "git-repo/publish/home.md",
     "git-repo/publish/attachments/vercel-project-id.png",
     "git-repo/publish/attachments/vercel-create-token.png",
     "git-repo/publish/attachments",
