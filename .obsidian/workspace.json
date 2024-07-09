@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LeetCode/148. Sort List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LeetCode/148. Sort List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LeetCode/148. Sort List.md"
+              }
             }
           }
         ]
@@ -152,12 +155,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1febcf43d25902b4",
+  "active": "0b438fb9ffafeb23",
   "lastOpenFiles": [
+    "LeetCode/49. Group Anagrams.md",
+    "LeetCode/148. Sort List.md",
+    "Attachments/LeetCode148_2.jpg",
+    "Attachments/LeetCode148_1.jpg",
     "Images/MergeSort1.excalidraw.md",
     "LeetCode/LeetCode Questions List.md",
-    "LeetCode/148. Sort List.md",
-    "LeetCode/49. Group Anagrams.md",
     "Algorithms And Data Structure/Linked List.md",
     "Sorting Algorithms/Sorting Algorithms.md",
     "Algorithms And Data Structure/Big O Notation.md",
@@ -193,9 +198,6 @@
     "git-repo/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
     "git-repo/publish/linked-blog-starter-does-not-reinvent-wheel.md",
     "git-repo/publish/install-linked-blog-starter-locally.md",
-    "git-repo/publish/how-linked-blog-starter-works.md",
-    "git-repo/publish/attachments/vercel-project-id.png",
-    "git-repo/publish/attachments/vercel-create-token.png",
     "git-repo/publish/attachments",
     "git-repo/publish",
     "git-repo",
