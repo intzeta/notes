@@ -26,7 +26,8 @@ void mergeSort(std::vector<int>& array){
 ```
 
 
-![[MergeSort1.excalidraw|100%40]]
+![[MergeSort1.excalidraw|100%]]
+
 
 - In the merge function we declare the sizes of the Array's - Left and Right, and also the index's. The first while loop condition check if the Left And Right array's aren't overflowing. Then If the value in the left Array is lower or equal to the value in the Right Array we add the value to the array and index i, we add one to the Left Index and go to the next value.
 
@@ -61,3 +62,6 @@ void merge(vector<int>& leftArray, vector<int>& rightArray, vector<int>& array){
     }
 }
 ```
+
+
+![[MergeSort2.excalidraw|100%]]

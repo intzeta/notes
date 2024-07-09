@@ -30,29 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "25cf5d3bb35926cf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/MergeSort1.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "97759ec2d0aea223",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/MergeSort2.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/MergeSort2.excalidraw.md",
+                "file": "Sorting Algorithms/Sorting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/MergeSort2.excalidraw.md",
+                "file": "Sorting Algorithms/Sorting Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/MergeSort2.excalidraw.md"
+                "file": "Sorting Algorithms/Sorting Algorithms.md"
               }
             }
           }
@@ -180,14 +159,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "97759ec2d0aea223",
+  "active": "0bea6023f7c469d4",
   "lastOpenFiles": [
-    "Excalidraw/MergeSort1.excalidraw.md",
+    "LeetCode/LeetCode Questions List.md",
+    "Sorting Algorithms/Sorting Algorithms.md",
+    "Images/MergeSort1.excalidraw.md",
     "Images/MergeSort2.excalidraw.md",
     "Images",
-    "Sorting Algorithms/Sorting Algorithms.md",
     "Algorithms And Data Structure/Algorithms And Data Structure.md",
-    "LeetCode/LeetCode Questions List.md",
     "Algorithms And Data Structure/Stack.md",
     "Algorithms And Data Structure",
     "Attachments/Big O Notation.png",
