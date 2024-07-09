@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f97888087135d911",
+            "id": "bed1c36e291b6efc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,17 +20,16 @@
             }
           },
           {
-            "id": "a97b604f50aeee2d",
+            "id": "51e9b118df1e0f57",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md"
+                "file": "Excalidraw/MergeSort.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md",
+                "file": "Sorting Algorithms/Sorting Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md",
+                "file": "Sorting Algorithms/Sorting Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md"
+                "file": "Sorting Algorithms/Sorting Algorithms.md"
               }
             }
           }
@@ -158,16 +157,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a97b604f50aeee2d",
+  "active": "bed1c36e291b6efc",
   "lastOpenFiles": [
+    "Excalidraw/MergeSort.excalidraw.md",
     "Sorting Algorithms/Sorting Algorithms.md",
+    "LeetCode/49. Group Anagrams.md",
+    "1-D DP.md",
+    "Excalidraw/Drawing 2024-07-09 12.28.01.excalidraw.md",
+    "Attachments/Pasted image 20240709115541.png",
     "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md",
     "Excalidraw",
-    "Attachments/Pasted image 20240709115541.png",
     "Algorithms And Data Structure.md",
     "Big O Notation.md",
     "Sorting Algorithms",
-    "LeetCode/49. Group Anagrams.md",
     "Linked List.md",
     "Advanced Graphs.md",
     "Arrays.md",
@@ -196,12 +198,9 @@
     "git-repo/publish/attachments/vercel-create-token.png",
     "git-repo/publish/attachments/vercel-account-id.png",
     "git-repo/publish/attachments",
-    "git-repo/publish/accepted-markdown-metadata.md",
     "git-repo/publish",
-    "git-repo/README.md",
     "git-repo",
     "git-repo-backup",
-    "Untitled.md",
     "git-repo",
     "LeetCode",
     "Attachments",

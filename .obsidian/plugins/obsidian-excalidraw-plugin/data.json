@@ -1,5 +1,5 @@
 {
-  "folder": "Excalidraw",
+  "folder": "Images",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -102,7 +102,7 @@
   "mdBorderColor": "Black",
   "mdCSS": "",
   "scriptEngineSettings": {},
-  "defaultTrayMode": true,
+  "defaultTrayMode": false,
   "previousRelease": "2.2.8",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
