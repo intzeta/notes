@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/LeetCode Questions List.md",
+                "file": "Algorithms And Data Structure/Two Pointers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/LeetCode Questions List.md",
+                "file": "Algorithms And Data Structure/Two Pointers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/LeetCode Questions List.md",
+                "file": "Algorithms And Data Structure/Two Pointers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/LeetCode Questions List.md"
+                "file": "Algorithms And Data Structure/Two Pointers.md"
               }
             }
           }
@@ -148,7 +148,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04a84cab8e19f5b5",
+  "active": "150b3532f7f9e5a8",
   "lastOpenFiles": [
     "LeetCode/LeetCode Questions List.md",
     "LeetCode/148. Sort List.md",
