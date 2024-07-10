@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1febcf43d25902b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms And Data Structure/Binary Search.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithms And Data Structure/Binary Search.md",
+                "file": "LeetCode/148. Sort List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithms And Data Structure/Binary Search.md",
+                "file": "LeetCode/148. Sort List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithms And Data Structure/Binary Search.md"
+                "file": "LeetCode/148. Sort List.md"
               }
             }
           }
@@ -146,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,10 +147,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1febcf43d25902b4",
+  "active": "0b438fb9ffafeb23",
   "lastOpenFiles": [
-    "LeetCode/LeetCode Questions List.md",
+    "Algorithms And Data Structure/Algorithms And Data Structure.md",
+    "Algorithms And Data Structure/Binary Search.md",
+    "Algorithms And Data Structure/Two Pointers.md",
+    "Algorithms And Data Structure/Sliding Windows.md",
     "LeetCode/148. Sort List.md",
+    "LeetCode/LeetCode Questions List.md",
     "LeetCode/49. Group Anagrams.md",
     "Attachments/LeetCode148_2.jpg",
     "Attachments/LeetCode148_1.jpg",
@@ -173,7 +164,6 @@
     "Algorithms And Data Structure/Big O Notation.md",
     "Images/MergeSort2.excalidraw.md",
     "Images",
-    "Algorithms And Data Structure/Algorithms And Data Structure.md",
     "Algorithms And Data Structure/Stack.md",
     "Algorithms And Data Structure",
     "Attachments/Big O Notation.png",
@@ -201,8 +191,6 @@
     "git-repo/publish/statically-generated.md",
     "git-repo/publish/reinventing-the-wheel.md",
     "git-repo/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "git-repo/publish/linked-blog-starter-does-not-reinvent-wheel.md",
-    "git-repo/publish/install-linked-blog-starter-locally.md",
     "git-repo/publish/attachments",
     "git-repo/publish",
     "git-repo",
