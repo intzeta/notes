@@ -15,8 +15,8 @@
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.677083333333333,
+  "linkStrength": 0.520833333333333,
   "linkDistance": 30,
-  "scale": 0.2080983589899911,
+  "scale": 0.01171875,
   "close": false
 }
