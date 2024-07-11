@@ -63,7 +63,7 @@ class Stack{
 
 ##### Pop Function
 
-- This function removes the value at the **Top**. Firstly it checks if the Stack have any Node's. If yes
+- This function removes the value at the **Top**. Firstly it checks if the Stack have any Node's. If yes 
 
 ```
 class Stack{
