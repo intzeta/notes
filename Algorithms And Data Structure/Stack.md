@@ -31,7 +31,7 @@ struct ListNode{
 };
 ```
 
-Adding head to the class (Pointer to the First Node in the Linked List)
+- Adding head to the class (Pointer to the First Node in the Linked List)
 
 ```
 class Stack{
@@ -45,6 +45,8 @@ class Stack{
 ```
 ##### Push Function
 
+- This function put new value at the **Top**. Firstly it creates new Node with value and it's pointing into the first Node. After that it set the head pointer to the newly created Node. 
+
 ```
 class Stack{
 	private:
@@ -53,15 +55,32 @@ class Stack{
 		...
 		void push(int value){
 			ListNode* newNode = new ListNode(value, head);
-			if(head == nullptr){
-				head = newNode;
-			}else{
-				
-			}
+			head = newNode;
 		}
 	
 };
 ```
 
+##### Pop Function
 
+- This function removes the value at the **Top**. Firstly it checks if the Stack have any Node's. If yes
+
+```
+class Stack{
+	private:
+		...
+	public:
+		...
+		void pop(){
+			if(head == nullptr){
+				std::cout << "Error: No Node's in the list!\n";
+				return;
+			}else{
+				ListNode* temp = head;
+				head = head->next;
+				delete temp;
+			}
+		}
+};
+```
 
