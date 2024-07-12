@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/20. Valid Parentheses.md",
+                "file": "LeetCode/344. Reverse String.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/20. Valid Parentheses.md",
+                "file": "LeetCode/344. Reverse String.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/20. Valid Parentheses.md"
+                "file": "LeetCode/344. Reverse String.md"
               }
             }
           }
