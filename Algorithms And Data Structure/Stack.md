@@ -3,13 +3,25 @@
 - Stack is a data structure that is only accessible from the **Top**. The most popular functions it provide are: 
 	- [[#Push Function]] - Puts the element on **Top**.
 	- [[#Pop Function]] - Removes the element at **Top**.
-	- IsEmpty - Check if the Stack is empty, return boolean.
-	- Top - Returns  the value at **Top**.
+	- [[#IsEmpty function]] - Check if the Stack is empty, return boolean.
+	- [[#Top function]] - Returns  the value at **Top**.
 
 
 ![[Stack.excalidraw|100%]]
 
 ### Implementation for Linked List Stack
+
+#### Using a STL library Stack
+
+- The best way of creating a Stack class is just by using a in build library Stack.
+
+```
+#include <stack>
+
+int main(){
+	stack<data type> name_of_stack;
+}
+```
 
 #### Declaration of the Stack for Linked List
 
@@ -85,7 +97,40 @@ class Stack{
 ```
 
 
+##### IsEmpty function
 
+- This function checks if the stack is empty. Returns a boolean.
+
+```
+class Stack{
+	private:
+		...
+	public:
+		...
+		bool isEmpty(){
+			if(head == nullptr){
+				return true;
+			}else{
+				return false;
+			}
+		}
+};
+```
+
+##### Top function
+
+```
+class Stack{
+	private:
+		...
+	public:
+		...
+		<datatype> Top(){
+			ListNode* temp = head;
+			return temp->val;
+		}
+};
+```
 ### Methods and use of a Stack
 
 #### Reversing a string in a O(n) time and O(n) space complexity
