@@ -8,67 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "841947d289ba1b8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/344. Reverse String.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5af10eb70e93116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms And Data Structure/Algorithms And Data Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6493636eb687c490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/148. Sort List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d66b848f1c388c52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithms And Data Structure/Stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6beaef5bce333484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/150. Evaluate Reverse Polish Notation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f28ace0a4827d1f0",
+            "id": "b465d5152bbffdf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,19 +20,27 @@
             }
           },
           {
-            "id": "b465d5152bbffdf0",
+            "id": "0b1eca9152587844",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/150. Evaluate Reverse Polish Notation.md",
+                "file": "LeetCode/1614. Maximum Nesting Depth of the Parentheses.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "148336d974bb55d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/150. Evaluate Reverse Polish Notation.md",
+                "file": "LeetCode/1614. Maximum Nesting Depth of the Parentheses.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/150. Evaluate Reverse Polish Notation.md",
+                "file": "LeetCode/1614. Maximum Nesting Depth of the Parentheses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/150. Evaluate Reverse Polish Notation.md"
+                "file": "LeetCode/1614. Maximum Nesting Depth of the Parentheses.md"
               }
             }
           }
@@ -221,30 +169,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b465d5152bbffdf0",
+  "active": "0b1eca9152587844",
   "lastOpenFiles": [
-    "LeetCode/49. Group Anagrams.md",
-    "LeetCode/148. Sort List.md",
-    "LeetCode/20. Valid Parentheses.md",
+    "LeetCode/912. Sort an Array.md",
+    "LeetCode/1614. Maximum Nesting Depth of the Parentheses.md",
     "LeetCode/LeetCode Questions List.md",
+    "Algorithms And Data Structure/Big O Notation.md",
+    "LeetCode/143. Reorder List.md",
     "LeetCode/150. Evaluate Reverse Polish Notation.md",
     "Algorithms And Data Structure/Stack.md",
-    "LeetCode/344. Reverse String.md",
-    "Sorting Algorithms/Merge Sort.md",
+    "LeetCode/148. Sort List.md",
     "Algorithms And Data Structure/Algorithms And Data Structure.md",
+    "LeetCode/344. Reverse String.md",
+    "Attachments/LeetCode143_2.jpg",
+    "Attachments/LeetCode143_1.jpg",
+    "Algorithms And Data Structure/Binary Search.md",
+    "LeetCode/20. Valid Parentheses.md",
+    "LeetCode/49. Group Anagrams.md",
+    "Sorting Algorithms/Merge Sort.md",
     "Algorithms And Data Structure/Linked List.md",
     "Algorithms And Data Structure/Strings.md",
     "Images/Stack.excalidraw.md",
     "Sorting Algorithms/Sorting Algorithms.md",
-    "Algorithms And Data Structure/Big O Notation.md",
     "Algorithms And Data Structure/Sliding Windows.md",
     "Algorithms And Data Structure/Trees.md",
     "Images/MergeSort1.excalidraw.md",
     "Images/MergeSort2.excalidraw.md",
     "Algorithms And Data Structure/Intervals.md",
     "Algorithms And Data Structure/Two Pointers.md",
-    "LeetCode/912. Sort an Array.md",
-    "Algorithms And Data Structure/Binary Search.md",
     "Attachments/LeetCode148_2.jpg",
     "Attachments/LeetCode148_1.jpg",
     "Images",
@@ -255,16 +207,12 @@
     "Algorithms And Data Structure/1-D DP.md",
     "Excalidraw/Drawing 2024-07-09 12.28.01.excalidraw.md",
     "Attachments/Pasted image 20240709115541.png",
-    "Excalidraw/Drawing 2024-07-09 11.59.02.excalidraw.md",
     "Excalidraw",
     "Sorting Algorithms",
-    "Algorithms And Data Structure/Advanced Graphs.md",
     "git-repo/publish/attachments/how-linked-blog-starter-works.png",
     "git-repo/publish/attachments/github-secrets-vercel.png",
     "git-repo/publish/attachments/fn-website-demo.gif",
     "git-repo/publish/attachments/create-pat-github.png",
-    "git-repo/publish/attachments/configure-project-vercel.png",
-    "git-repo/publish/attachments/clone-or-download-github.png",
     "git-repo/publish/attachments",
     "git-repo/publish",
     "git-repo",
