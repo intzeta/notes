@@ -4,6 +4,7 @@
 
 #### [[Arrays]]
 
+#### **[[Strings]]**
 #### **[[Hash Maps & Hashing]]**
 
 #### **[[Stack]]**

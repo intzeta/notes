@@ -2,7 +2,7 @@
 
 - Stack is a data structure that is only accessible from the **Top**. The most popular functions it provide are: 
 	- [[#Push Function]] - Puts the element on **Top**.
-	- Pop - Removes the element at **Top**.
+	- [[#Pop Function]] - Removes the element at **Top**.
 	- IsEmpty - Check if the Stack is empty, return boolean.
 	- Top - Returns  the value at **Top**.
 
@@ -84,3 +84,32 @@ class Stack{
 };
 ```
 
+
+
+### Methods and use of a Stack
+
+#### Reversing a string in a O(n) time and O(n) space complexity
+[[344. Reverse String]]
+
+- We firstly declare a stack class containing characters. Then we iterate through the Array to put all of the characters into the stack. Then we replace every character in the string in a reverse order thanks to LIFO (Last In First Out). We swap the character and then pop the element from the stack.
+
+```
+#include <stack>
+#include <vector>
+class Solution {
+public:
+    
+
+    void reverseString(std::vector<char>& s) {
+        std::stack<char> stack;
+        for(int i = 0; i < s.size(); i++){
+            stack.push(s[i]);
+        }
+
+        for(int i = 0; i < s.size(); i++){
+            s[i] = stack.top();
+            stack.pop();
+        }
+    }
+};
+```
