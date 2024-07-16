@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "c3de8068192da43a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "946. Validate Stack Sequences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "148336d974bb55d1",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/148. Sort List.md",
+                "file": "946. Validate Stack Sequences.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/148. Sort List.md",
+                "file": "946. Validate Stack Sequences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/148. Sort List.md"
+                "file": "946. Validate Stack Sequences.md"
               }
             }
           }
@@ -169,8 +181,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2180a969eb7e23e",
+  "active": "c3de8068192da43a",
   "lastOpenFiles": [
+    "LeetCode/148. Sort List.md",
+    "946. Validate Stack Sequences.md",
     "LeetCode/75. Sort colors.md",
     "LeetCode/LeetCode Questions List.md",
     "LeetCode/1614. Maximum Nesting Depth of the Parentheses.md",
@@ -179,7 +193,6 @@
     "LeetCode/143. Reorder List.md",
     "LeetCode/150. Evaluate Reverse Polish Notation.md",
     "Algorithms And Data Structure/Stack.md",
-    "LeetCode/148. Sort List.md",
     "Algorithms And Data Structure/Algorithms And Data Structure.md",
     "LeetCode/344. Reverse String.md",
     "Attachments/LeetCode143_2.jpg",
@@ -205,7 +218,6 @@
     "Attachments/Big O Notation.png",
     "ssh-key.pub",
     "ssh-key",
-    "Algorithms And Data Structure/1-D DP.md",
     "Attachments/Pasted image 20240709115541.png",
     "Excalidraw",
     "Sorting Algorithms",
