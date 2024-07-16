@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/75. Sort colors.md",
+                "file": "LeetCode/148. Sort List.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/75. Sort colors.md",
+                "file": "LeetCode/148. Sort List.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/75. Sort colors.md",
+                "file": "LeetCode/148. Sort List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/75. Sort colors.md"
+                "file": "LeetCode/148. Sort List.md"
               }
             }
           }
@@ -171,8 +171,8 @@
   },
   "active": "a2180a969eb7e23e",
   "lastOpenFiles": [
-    "LeetCode/LeetCode Questions List.md",
     "LeetCode/75. Sort colors.md",
+    "LeetCode/LeetCode Questions List.md",
     "LeetCode/1614. Maximum Nesting Depth of the Parentheses.md",
     "LeetCode/912. Sort an Array.md",
     "Algorithms And Data Structure/Big O Notation.md",
