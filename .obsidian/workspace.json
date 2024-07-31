@@ -64,18 +64,6 @@
             }
           },
           {
-            "id": "c571364d3a1304dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self-Improvement/James Clear - Atomic Habit's.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1ba8526ecca181de",
             "type": "leaf",
             "state": {
@@ -93,7 +81,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-Improvement/David Goggins - Can't hurt me.md",
+                "file": "LeetCode/49. Group Anagrams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f3406832b6c662a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self-Improvement/Self Improvement Books.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-Improvement/David Goggins - Can't hurt me.md",
+                "file": "Self-Improvement/Self Improvement Books.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-Improvement/David Goggins - Can't hurt me.md",
+                "file": "Self-Improvement/Self Improvement Books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-Improvement/David Goggins - Can't hurt me.md"
+                "file": "Self-Improvement/Self Improvement Books.md"
               }
             }
           }
@@ -237,13 +237,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b902a64b5d67860",
+  "active": "9f3406832b6c662a",
   "lastOpenFiles": [
-    "Self-Improvement/David Goggins - Never Finished.md",
-    "Self-Improvement/David Goggins - Can't hurt me.md",
+    "Self-Improvement/Self Improvement Books.md",
     "Self-Improvement/Morgan Housel - The Psychology Of Money.md",
-    "Self-Improvement/Stephan R. Covey The 7 Habits Of Highly Effective People.md",
+    "Self-Improvement/David Goggins - Can't hurt me.md",
+    "Self-Improvement/David Goggins - Never Finished.md",
     "Self-Improvement/James Clear - Atomic Habit's.md",
+    "Self-Improvement/Stephan R. Covey The 7 Habits Of Highly Effective People.md",
+    "Self-Improvement/Stephan R. Covey The 7 Habits Of Highly Effective People",
+    "Self-Improvement/Morgan Housel - The Psychology Of Money",
+    "Self-Improvement/David Goggins - Never Finished",
+    "Self-Improvement/David Goggins - Can't hurt me",
+    "LeetCode/49. Group Anagrams.md",
+    "Self-Improvement/James Clear - Atomic Habit's",
     "Self-Improvement",
     "946. Validate Stack Sequences.md",
     "LeetCode/148. Sort List.md",
@@ -261,13 +268,11 @@
     "Attachments/LeetCode143_1.jpg",
     "Algorithms And Data Structure/Binary Search.md",
     "LeetCode/20. Valid Parentheses.md",
-    "LeetCode/49. Group Anagrams.md",
     "Sorting Algorithms/Merge Sort.md",
     "Algorithms And Data Structure/Linked List.md",
     "Algorithms And Data Structure/Strings.md",
     "Images/Stack.excalidraw.md",
     "Sorting Algorithms/Sorting Algorithms.md",
-    "Algorithms And Data Structure/Sliding Windows.md",
     "Attachments/LeetCode148_2.jpg",
     "Attachments/LeetCode148_1.jpg",
     "Images",
@@ -276,14 +281,9 @@
     "ssh-key.pub",
     "ssh-key",
     "Attachments/Pasted image 20240709115541.png",
-    "Excalidraw",
-    "Sorting Algorithms",
     "git-repo/publish/attachments/how-linked-blog-starter-works.png",
     "git-repo/publish/attachments/github-secrets-vercel.png",
     "git-repo/publish/attachments/fn-website-demo.gif",
-    "git-repo/publish/attachments/create-pat-github.png",
-    "git-repo/publish/attachments",
-    "git-repo/publish",
-    "git-repo"
+    "git-repo/publish/attachments/create-pat-github.png"
   ]
 }
