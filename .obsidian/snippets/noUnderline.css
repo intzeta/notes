@@ -11,5 +11,10 @@ span.hljs {
   color: #000000; /* Change this to your desired text color */
 }
 
+.cm-s-obsidian span.cm-highlight {
+  color: #FFFFFF;
+  background-color: #8a5cf5;
+}
+
 
 
