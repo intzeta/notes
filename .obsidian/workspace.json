@@ -8,18 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "30cf520013da96e3",
+            "id": "d796bccf22e8db65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-Improvement/David Goggins - Never Finished/David Goggins - Never Finished.md",
+                "file": "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Stephan R. Covey The 7 Habits Of Highly Effective People.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "253c7084d04043cf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-Improvement/David Goggins - Never Finished/David Goggins - Never Finished.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-Improvement/David Goggins - Never Finished/David Goggins - Never Finished.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Self-Improvement/David Goggins - Never Finished/David Goggins - Never Finished.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,46 +155,46 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "30cf520013da96e3",
+  "active": "253c7084d04043cf",
   "lastOpenFiles": [
-    "Algorithms And Data Structure/Linked List.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/20. Confessions.md",
-    "LeetCode/75. Sort colors.md",
-    "Self-Improvement/James Clear - Atomic Habit's/James Clear - Atomic Habit's.md",
-    "Algorithms And Data Structure/Arrays.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/16. You & Me.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/13. Room for Error.md",
-    "Self-Improvement/James Clear - Atomic Habit's/5 - The Best Way to Start a New Habit.md",
-    "Self-Improvement/James Clear - Atomic Habit's/4 - The Man Who Didn’t Look Right.md",
-    "Self-Improvement/James Clear - Atomic Habit's/15 - The Cardinal Rule of Behavior Change.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/15. Nothing's Free.md",
-    "Algorithms And Data Structure/Bit Manipulation.md",
-    "Self-Improvement/James Clear - Atomic Habit's/8 - How to Make a Habit Irresistible.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/Morgan Housel - The Psychology Of Money.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/1. No One's Crazy.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/19. All Together Now.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/18. When You'll Believe Anything.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/17. The Seduction of Pessimism.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/14. You'll Change.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/12. Surprise.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/11. Reasonable > Rational.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/10. Save Money.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/9. Wealth is What You Don't See.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/8. Man in the Car Paradox.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/7. Freedom.md",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money/6. Tails, You Win.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Stephan R. Covey The 7 Habits Of Highly Effective People.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Synergize.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Seek First to Understand, Then to be Understood.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Think Win-Win.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Paradagism of Interdependence.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Put First Things First.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Begin with the End in Mind.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Be Proactive.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/The 7 Habits—An Overview.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Inside-Out.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Inside-Out Again.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Sharpen the Saw.md",
+    "Books/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
+    "Books/Books.md",
+    "Books/David Goggins - Can't hurt me/David Goggins - Can't hurt me.md",
+    "Books/David Goggins - Can't hurt me/10. The Empowerment Of Failure.md",
+    "Books/David Goggins - Can't hurt me/9. Uncommon Among'st Uncommon.md",
+    "Books/David Goggins - Can't hurt me/8. Talent Not Required.md",
+    "Books/David Goggins - Can't hurt me/7. The Most Powerful Weapon.md",
+    "Books/David Goggins - Can't hurt me/6. It's Not About A Trophy.md",
+    "Books/David Goggins - Can't hurt me/5. Armored Mind.md",
+    "Books/David Goggins - Can't hurt me/4. Taking Souls.md",
+    "Books/David Goggins - Can't hurt me/3. The Impossible task.md",
+    "Books/David Goggins - Can't hurt me/2. Truth Hurts.md",
+    "Books/David Goggins - Can't hurt me/1. I Should Have Been A Statistic.md",
+    "Books/David Goggins - Can't hurt me/11. What If?.md",
     "Attachments/Pasted image 20240731172542.png",
     "Images/LatentPotential.png",
     "Images/1%better.png",
     "Attachments/Pasted image 20240731171410.png",
     "Attachments/Pasted image 20240731171339.png",
     "Attachments/Pasted image 20240731170331.png",
-    "Self-Improvement/Stephan R. Covey The 7 Habits Of Highly Effective People",
-    "Self-Improvement/Morgan Housel - The Psychology Of Money",
-    "Self-Improvement/David Goggins - Never Finished",
-    "Self-Improvement/David Goggins - Can't hurt me",
-    "Self-Improvement/James Clear - Atomic Habit's",
-    "Self-Improvement",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People",
+    "Books/Morgan Housel - The Psychology Of Money",
+    "Books/David Goggins - Never Finished",
+    "Books/David Goggins - Can't hurt me",
+    "Books/James Clear - Atomic Habit's",
+    "Books",
     "Attachments/LeetCode143_2.jpg",
     "Attachments/LeetCode143_1.jpg",
     "Attachments/LeetCode148_2.jpg",
