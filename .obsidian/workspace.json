@@ -11,12 +11,8 @@
             "id": "a9cfb89c552b761c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self-Improvement/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-Improvement/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-Improvement/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Self-Improvement/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,6 +142,7 @@
   },
   "active": "a9cfb89c552b761c",
   "lastOpenFiles": [
+    "Self-Improvement/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
     "Attachments/Pasted image 20240731172542.png",
     "Images/LatentPotential.png",
     "Images/1%better.png",
@@ -162,7 +155,6 @@
     "LeetCode/150. Evaluate Reverse Polish Notation.md",
     "LeetCode/912. Sort an Array.md",
     "LeetCode/1614. Maximum Nesting Depth of the Parentheses.md",
-    "Self-Improvement/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
     "Self-Improvement/James Clear - Atomic Habit's/James Clear - Atomic Habit's.md",
     "Self-Improvement/James Clear - Atomic Habit's/18 - The Truth About Talent (When Genes Matter and When They Don’t).md",
     "Self-Improvement/James Clear - Atomic Habit's/19 - The Goldilocks Rule - How to Stay Motivated in Life and Work.md",
@@ -193,7 +185,6 @@
     "Attachments/LeetCode148_1.jpg",
     "Images",
     "Algorithms And Data Structure",
-    "Attachments/Big O Notation.png",
     "ssh-key.pub",
     "ssh-key"
   ]
