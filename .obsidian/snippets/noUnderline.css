@@ -5,17 +5,11 @@
   --link-external-decoration-hover: underline; */
 }
 
-::selection {
-  background-color: #8A5CF5; /* Change this to your desired highlight color */
+/* Highlight color for formatted text in Obsidian */
+span.hljs {
+  background-color: #8a5cf5; /* Change this to your desired highlight color */
   color: #000000; /* Change this to your desired text color */
 }
-/* Highlight color for code selection */
-.cm-selectionBackground {
-  background-color: #8A5CF5; /* Change this to your desired highlight color */
-}
 
-/* Highlight color for search results */
-.cm-searchMatch {
-  background-color: #8A5CF5; /* Change this to your desired highlight color */
-}
+
 
