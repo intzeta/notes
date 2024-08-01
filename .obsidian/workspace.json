@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Stephan R. Covey The 7 Habits Of Highly Effective People.md",
+                "file": "Books/James Clear - Atomic Habit's/5 - The Best Way to Start a New Habit.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,11 @@
             "id": "253c7084d04043cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/James Clear - Atomic Habit's/8 - How to Make a Habit Irresistible.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/James Clear - Atomic Habit's/8 - How to Make a Habit Irresistible.md",
+                "file": "Books/James Clear - Atomic Habit's/5 - The Best Way to Start a New Habit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/James Clear - Atomic Habit's/8 - How to Make a Habit Irresistible.md",
+                "file": "Books/James Clear - Atomic Habit's/5 - The Best Way to Start a New Habit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/James Clear - Atomic Habit's/8 - How to Make a Habit Irresistible.md"
+                "file": "Books/James Clear - Atomic Habit's/5 - The Best Way to Start a New Habit.md"
               }
             }
           }
@@ -162,50 +157,49 @@
       "random-note:Open random note": false
     }
   },
-  "active": "253c7084d04043cf",
+  "active": "d796bccf22e8db65",
   "lastOpenFiles": [
-    "Books/James Clear - Atomic Habit's/7 - The Secret to Self-Control.md",
     "Books/James Clear - Atomic Habit's/6 - Motivation Is Overrated; Environment Often Matters More.md",
+    "Books/James Clear - Atomic Habit's/7 - The Secret to Self-Control.md",
     "Books/James Clear - Atomic Habit's/8 - How to Make a Habit Irresistible.md",
     "Books/James Clear - Atomic Habit's/9 - The Role of Family and Friends in Shaping Your Habits.md",
-    "Books/James Clear - Atomic Habit's/12 - The Law of Least Effort.md",
-    "Books/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
-    "Books/James Clear - Atomic Habit's/2. How Your Habits Shape Your Identity (And Vice Versa).md",
-    "Books/James Clear - Atomic Habit's/3. How To Build Better Habits In 4 Simple Steps.md",
-    "Books/James Clear - Atomic Habit's/4 - The Man Who Didn’t Look Right.md",
+    "Images/conformingtosocialnorms.png",
+    "Books/James Clear - Atomic Habit's/11 - Walk Slowly, but Never Backward.md",
     "Books/James Clear - Atomic Habit's/5 - The Best Way to Start a New Habit.md",
+    "Books/Morgan Housel - The Psychology Of Money/11. Reasonable > Rational.md",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Inside-Out Again.md",
+    "Images/MergeSort2.excalidraw.md",
+    "Books/Books.md",
+    "Books/James Clear - Atomic Habit's/James Clear - Atomic Habit's.md",
+    "Books/James Clear - Atomic Habit's/3. How To Build Better Habits In 4 Simple Steps.md",
+    "Books/James Clear - Atomic Habit's/2. How Your Habits Shape Your Identity (And Vice Versa).md",
+    "Books/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
+    "Books/James Clear - Atomic Habit's/4 - The Man Who Didn’t Look Right.md",
+    "Images/dopaminestrike.png",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Stephan R. Covey The 7 Habits Of Highly Effective People.md",
+    "Books/James Clear - Atomic Habit's/12 - The Law of Least Effort.md",
     "Books/James Clear - Atomic Habit's/18 - The Truth About Talent (When Genes Matter and When They Don’t).md",
     "Images/HabitStacking.png",
     "Images/TheScienceOfHowHabitsWork.png",
     "Images/threelayersofbehaviorchange.png",
     "Books/Morgan Housel - The Psychology Of Money/Morgan Housel - The Psychology Of Money.md",
-    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Stephan R. Covey The 7 Habits Of Highly Effective People.md",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Synergize.md",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Seek First to Understand, Then to be Understood.md",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Think Win-Win.md",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Paradagism of Interdependence.md",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Put First Things First.md",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Begin with the End in Mind.md",
-    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Be Proactive.md",
-    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/The 7 Habits—An Overview.md",
-    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Inside-Out.md",
-    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Inside-Out Again.md",
-    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Sharpen the Saw.md",
-    "Books/Books.md",
-    "Books/David Goggins - Can't hurt me/David Goggins - Can't hurt me.md",
     "Attachments/Pasted image 20240731172542.png",
     "Images/LatentPotential.png",
     "Images/1%better.png",
     "Attachments/Pasted image 20240731171410.png",
     "Attachments/Pasted image 20240731171339.png",
-    "Attachments/Pasted image 20240731170331.png",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People",
     "Books/Morgan Housel - The Psychology Of Money",
     "Books/David Goggins - Never Finished",
     "Books/David Goggins - Can't hurt me",
     "Books/James Clear - Atomic Habit's",
     "Books",
-    "Attachments/LeetCode143_2.jpg",
     "Images",
     "Algorithms And Data Structure",
     "ssh-key.pub",

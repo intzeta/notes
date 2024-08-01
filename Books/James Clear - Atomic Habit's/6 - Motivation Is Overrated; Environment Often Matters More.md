@@ -1,8 +1,6 @@
 
-**---**
+---
 ## **How To Design Your Environment For Success**
-
-
 
 **It’s easy not to practice the guitar when it’s tucked away in the closet.**
 **It’s easy not to read a book when the bookshelf is in the corner of the guest**
@@ -29,7 +27,7 @@
 **the architect of your life. Be the designer of your world and not merely the**
 **consumer of it.**
 
-**---**
+---
 ## **The Context Is The Cue**
 
 **The cues that trigger a habit can start out very specific, but over time your habits**
@@ -79,7 +77,7 @@
 **A stable environment where everything has a place and a purpose is an**
 **environment where habits can easily form.**
 
-**---**
+---
 ## **Chapter Summary**
 
 - **Small changes in context can lead to large changes in behavior over**

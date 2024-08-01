@@ -1,5 +1,5 @@
 
-**---**
+---
 **Lee Robins was one of the researchers in charge. In a finding that completely**
 **upended the accepted beliefs about addiction, Robins found that when soldiers**
 **who had been heroin users returned home from Vietnam, only 5 percent of them became**
@@ -58,7 +58,7 @@
 - **If you’re playing too many video games, unplug the console and put it**
   **in a closet after each use.**
   
-**---**
+---
 ## **Chapter Summary**
 
 
