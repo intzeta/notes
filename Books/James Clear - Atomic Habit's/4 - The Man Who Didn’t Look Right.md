@@ -1,4 +1,5 @@
 
+---
 ## **Invisible Habit**
 
 **This is one of the most surprising insights about our habits: you don’t need to**
@@ -18,7 +19,9 @@
 **said, “Until you make the unconscious conscious, it will direct your life and you**
 **will call it fate.”**
 
+---
 ## **The Habits Scorecard**
+
 
 **One of our greatest challenges in changing habits is maintaining awareness of**
 **what we are actually doing. This helps explain why the consequences of bad**
@@ -71,7 +74,9 @@
 **life. Say out loud the action that you are thinking of taking and what the outcome**
 **will be.**
 
+---
 ## **Chapter Summary**
+
 - **With enough practice, your brain will pick up on the cues that predict**
   **certain outcomes without consciously thinking about it.**
 - **Once our habits become automatic, we stop paying attention to what**

@@ -18,20 +18,24 @@
 > **conscious thought. But like a dog salivating at a bell, maybe you start to get**
 > **antsy around the time of day you normally work out.”**
 
+---
 ## **Habit Stacking**
 
+
 **The habit stacking formula is:**
+
 **“After [CURRENT HABIT], I will [NEW HABIT].”**
+
 **For example:**
-**Meditation. After I pour my cup of coffee each morning, I will**
-**meditate for one minute.**
-**Exercise. After I take off my work shoes, I will immediately change**
-**into my workout clothes.**
-**Gratitude. After I sit down to dinner, I will say one thing I’m grateful**
-**for that happened today.**
-**Marriage. After I get into bed at night, I will give my partner a kiss.**
-**Safety. After I put on my running shoes, I will text a friend or family**
-**member where I am running and how long it will take.**
+- **Meditation. After I pour my cup of coffee each morning, I will**
+  **meditate for one minute.**
+- **Exercise. After I take off my work shoes, I will immediately change**
+  **into my workout clothes.**
+- **Gratitude. After I sit down to dinner, I will say one thing I’m grateful**
+  **for that happened today.**
+- **Marriage. After I get into bed at night, I will give my partner a kiss.**
+- **Safety. After I put on my running shoes, I will text a friend or family**
+  **member where I am running and how long it will take.**
 **![[HabitStacking.png]]**
 **Your morning routine habit stack might look like this:**
 
@@ -50,6 +54,7 @@
    **tomorrow morning.**
 
 **Once you get comfortable with this approach, you can develop general habit stacks to guide you whenever the situation is appropriate:**
+
 - **Exercise. When I see a set of stairs, I will take them instead of using**
   **the elevator.**
 - **Social skills. When I walk into a party, I will introduce myself to**
@@ -69,6 +74,7 @@
 **of your current habits. You can use your Habits Scorecard from the last chapter**
 **as a starting point. Alternatively, you can create a list with two columns. In the**
 **first column, write down the habits you do each day without fail.***
+
 - **For example:**
 - **Get out of bed.**
 - **Take a shower.**
@@ -94,7 +100,9 @@
 - **The song you are listening to ends.**
 - **The sun sets.**
 
-**Chapter Summary**
+---
+## **Chapter Summary**
+
 - **The 1st Law of Behavior Change is make it obvious.**
   **The two most common cues are time and location.**
 - **Creating an implementation intention is a strategy you can use to pair a**
