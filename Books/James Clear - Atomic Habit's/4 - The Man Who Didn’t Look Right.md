@@ -60,7 +60,7 @@
 - **Get dressed =**
 - **Make a cup of tea +**
 
-	**The marks you give to a particular habit will depend on your situation and**
+**The marks you give to a particular habit will depend on your situation and**
 **your goals. For someone who is trying to lose weight, eating a bagel with peanut**
 **butter every morning might be a bad habit. For someone who is trying to bulk up**
 **and add muscle, the same behavior might be a good habit. It all depends on what**

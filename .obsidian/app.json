@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "vimMode": false,
+  "vimMode": true,
   "attachmentFolderPath": "Attachments",
   "spellcheck": true
 }
