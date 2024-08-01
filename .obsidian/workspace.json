@@ -23,8 +23,12 @@
             "id": "253c7084d04043cf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Books/James Clear - Atomic Habit's/5 - The Best Way to Start a New Habit.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/James Clear - Atomic Habit's/5 - The Best Way to Start a New Habit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books/James Clear - Atomic Habit's/5 - The Best Way to Start a New Habit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Books/James Clear - Atomic Habit's/5 - The Best Way to Start a New Habit.md"
+              }
             }
           }
         ],
@@ -151,12 +159,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "random-note:Open random note": false,
-      "zk-prefixer:Create new unique note": false
+      "random-note:Open random note": false
     }
   },
   "active": "253c7084d04043cf",
   "lastOpenFiles": [
+    "Books/James Clear - Atomic Habit's/4 - The Man Who Didn’t Look Right.md",
+    "Books/James Clear - Atomic Habit's/3. How To Build Better Habits In 4 Simple Steps.md",
+    "Images/TheScienceOfHowHabitsWork.png",
+    "Books/James Clear - Atomic Habit's/2. How Your Habits Shape Your Identity (And Vice Versa).md",
+    "Books/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
+    "Images/threelayersofbehaviorchange.png",
+    "Books/Morgan Housel - The Psychology Of Money/Morgan Housel - The Psychology Of Money.md",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Stephan R. Covey The 7 Habits Of Highly Effective People.md",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Synergize.md",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Seek First to Understand, Then to be Understood.md",
@@ -169,7 +183,6 @@
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Inside-Out.md",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Inside-Out Again.md",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Sharpen the Saw.md",
-    "Books/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
     "Books/Books.md",
     "Books/David Goggins - Can't hurt me/David Goggins - Can't hurt me.md",
     "Books/David Goggins - Can't hurt me/10. The Empowerment Of Failure.md",
@@ -179,10 +192,6 @@
     "Books/David Goggins - Can't hurt me/6. It's Not About A Trophy.md",
     "Books/David Goggins - Can't hurt me/5. Armored Mind.md",
     "Books/David Goggins - Can't hurt me/4. Taking Souls.md",
-    "Books/David Goggins - Can't hurt me/3. The Impossible task.md",
-    "Books/David Goggins - Can't hurt me/2. Truth Hurts.md",
-    "Books/David Goggins - Can't hurt me/1. I Should Have Been A Statistic.md",
-    "Books/David Goggins - Can't hurt me/11. What If?.md",
     "Attachments/Pasted image 20240731172542.png",
     "Images/LatentPotential.png",
     "Images/1%better.png",
@@ -197,8 +206,6 @@
     "Books",
     "Attachments/LeetCode143_2.jpg",
     "Attachments/LeetCode143_1.jpg",
-    "Attachments/LeetCode148_2.jpg",
-    "Attachments/LeetCode148_1.jpg",
     "Images",
     "Algorithms And Data Structure",
     "ssh-key.pub",
