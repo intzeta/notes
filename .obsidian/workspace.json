@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
+                "file": "Sorting Algorithms/Merge Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
+                "file": "Sorting Algorithms/Merge Sort.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
+                "file": "Sorting Algorithms/Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md"
+                "file": "Sorting Algorithms/Merge Sort.md"
               }
             }
           }
@@ -164,10 +164,12 @@
   },
   "active": "253c7084d04043cf",
   "lastOpenFiles": [
+    "LeetCode/148. Sort List.md",
+    "Sorting Algorithms/Merge Sort.md",
+    "Books/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
     "Books/James Clear - Atomic Habit's/4 - The Man Who Didn’t Look Right.md",
     "Books/James Clear - Atomic Habit's/3. How To Build Better Habits In 4 Simple Steps.md",
     "Books/James Clear - Atomic Habit's/2. How Your Habits Shape Your Identity (And Vice Versa).md",
-    "Books/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
     "LeetCode/143. Reorder List.md",
     "LeetCode/344. Reverse String.md",
     "LeetCode/49. Group Anagrams.md",
@@ -188,8 +190,6 @@
     "Algorithms And Data Structure/Binary Search.md",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Paradagism of Interdependence.md",
     "Books/David Goggins - Never Finished/6. The Art of Getting Hit in the Mouth.md",
-    "Books/Morgan Housel - The Psychology Of Money/14. You'll Change.md",
-    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Put First Things First.md",
     "Images/conformingtosocialnorms.png",
     "Images/dopaminestrike.png",
     "Images/HabitStacking.png",
