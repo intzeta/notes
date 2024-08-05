@@ -8,27 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d796bccf22e8db65",
+            "id": "197f662642a9e1c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/James Clear - Atomic Habit's/5 - The Best Way to Start a New Habit.md",
-                "mode": "preview",
+                "file": "LeetCode/704. Binary Search.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "253c7084d04043cf",
+            "id": "9f5950093b99f7b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sorting Algorithms/Merge Sort.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sorting Algorithms/Merge Sort.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sorting Algorithms/Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sorting Algorithms/Merge Sort.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -162,17 +154,25 @@
       "random-note:Open random note": false
     }
   },
-  "active": "253c7084d04043cf",
+  "active": "9f5950093b99f7b8",
   "lastOpenFiles": [
+    "LeetCode/704. Binary Search.md",
+    "Sorting Algorithms/Binary Search.md",
+    "LeetCode/20. Valid Parentheses.md",
+    "LeetCode/49. Group Anagrams.md",
+    "LeetCode/75. Sort colors.md",
+    "LeetCode/143. Reorder List.md",
     "LeetCode/148. Sort List.md",
+    "LeetCode/150. Evaluate Reverse Polish Notation.md",
+    "LeetCode/344. Reverse String.md",
+    "LeetCode/912. Sort an Array.md",
+    "LeetCode/946. Validate Stack Sequences.md",
+    "LeetCode/1614. Maximum Nesting Depth of the Parentheses.md",
     "Sorting Algorithms/Merge Sort.md",
     "Books/James Clear - Atomic Habit's/1. The Surprising Power Of Atomic Habits.md",
     "Books/James Clear - Atomic Habit's/4 - The Man Who Didn’t Look Right.md",
     "Books/James Clear - Atomic Habit's/3. How To Build Better Habits In 4 Simple Steps.md",
     "Books/James Clear - Atomic Habit's/2. How Your Habits Shape Your Identity (And Vice Versa).md",
-    "LeetCode/143. Reorder List.md",
-    "LeetCode/344. Reverse String.md",
-    "LeetCode/49. Group Anagrams.md",
     "Books/James Clear - Atomic Habit's/17 - How an Accountability Partner Can Change Everything.md",
     "Books/David Goggins - Can't hurt me/6. It's Not About A Trophy.md",
     "Books/David Goggins - Can't hurt me/David Goggins - Can't hurt me.md",
@@ -182,14 +182,6 @@
     "Books/David Goggins - Can't hurt me/1. I Should Have Been A Statistic.md",
     "Books/David Goggins - Can't hurt me/3. The Impossible task.md",
     "Books/David Goggins - Can't hurt me/5. Armored Mind.md",
-    "Books/David Goggins - Can't hurt me/8. Talent Not Required.md",
-    "Books/David Goggins - Can't hurt me/9. Uncommon Among'st Uncommon.md",
-    "Books/David Goggins - Can't hurt me/10. The Empowerment Of Failure.md",
-    "Books/David Goggins - Can't hurt me/11. What If?.md",
-    "Books/James Clear - Atomic Habit's/5 - The Best Way to Start a New Habit.md",
-    "Algorithms And Data Structure/Binary Search.md",
-    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People/Paradagism of Interdependence.md",
-    "Books/David Goggins - Never Finished/6. The Art of Getting Hit in the Mouth.md",
     "Images/conformingtosocialnorms.png",
     "Images/dopaminestrike.png",
     "Images/HabitStacking.png",

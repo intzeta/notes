@@ -13,7 +13,7 @@
 
 #### **[[Linked List]]**
 
-#### **[[Binary Search]]**
+#### **[[Algorithms And Data Structure/Binary Search]]**
 
 #### **[[Sliding Windows]]**
 
