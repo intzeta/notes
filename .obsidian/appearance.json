@@ -3,7 +3,9 @@
   "enabledCssSnippets": [
     "noUnderline"
   ],
-  "cssTheme": "Obsidian gruvbox",
-  "textFontFamily": "CaskaydiaMono Nerd Font Mono",
-  "monospaceFontFamily": "BigBlueTerm437 Nerd Font"
+  "cssTheme": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 14,
+  "accentColor": ""
 }

@@ -11,15 +11,4 @@
 
 #### Using the vector
 
-- Iterating through every element and checking if it's the same. Time Complexity - `O(n^2)`
-  This code is used in the question "Two Sum" on LeetCode and it's a BruteForce Example: 
-```	
-for (int i = 0; i < vector.size() - 1; i++) {
-	for (int j = i + 1; j < vector.size(); j++) {
-	    if (nums[i] + nums[j] == target) {
-	        return {i, j};
-	    }
-	}
-}
-```
 

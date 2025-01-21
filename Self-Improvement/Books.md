@@ -1,5 +1,0 @@
-### [[James Clear - Atomic Habit's]]
-### [[Morgan Housel - The Psychology Of Money]]
-### [[David Goggins - Can't hurt me]]
-### [[David Goggins - Never Finished]]
-### [[Stephan R. Covey The 7 Habits Of Highly Effective People]]

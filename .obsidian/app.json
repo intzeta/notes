@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "vimMode": true,
   "attachmentFolderPath": "Attachments",
-  "spellcheck": true
+  "spellcheck": true,
+  "showRibbon": false
 }

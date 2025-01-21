@@ -143,8 +143,6 @@ class Stack{
 #include <vector>
 class Solution {
 public:
-    
-
     void reverseString(std::vector<char>& s) {
         std::stack<char> stack;
         for(int i = 0; i < s.size(); i++){
