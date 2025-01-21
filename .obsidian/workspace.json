@@ -13,22 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/704. Binary Search.md",
+                "file": "LeetCode/150. Evaluate Reverse Polish Notation.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "150. Evaluate Reverse Polish Notation"
             }
           },
           {
             "id": "9f5950093b99f7b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/20. Valid Parentheses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20. Valid Parentheses"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -63,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -71,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -94,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LeetCode/150. Evaluate Reverse Polish Notation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 150. Evaluate Reverse Polish Notation"
             }
           },
           {
@@ -110,9 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LeetCode/150. Evaluate Reverse Polish Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 150. Evaluate Reverse Polish Notation"
             }
           },
           {
@@ -123,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -131,7 +152,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LeetCode/150. Evaluate Reverse Polish Notation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 150. Evaluate Reverse Polish Notation"
             }
           }
         ],
@@ -154,17 +179,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f5950093b99f7b8",
+  "active": "197f662642a9e1c6",
   "lastOpenFiles": [
+    "LeetCode/344. Reverse String.md",
     "LeetCode/704. Binary Search.md",
-    "Sorting Algorithms/Binary Search.md",
     "LeetCode/20. Valid Parentheses.md",
+    "Sorting Algorithms/Binary Search.md",
     "LeetCode/49. Group Anagrams.md",
     "LeetCode/75. Sort colors.md",
     "LeetCode/143. Reorder List.md",
     "LeetCode/148. Sort List.md",
     "LeetCode/150. Evaluate Reverse Polish Notation.md",
-    "LeetCode/344. Reverse String.md",
     "LeetCode/912. Sort an Array.md",
     "LeetCode/946. Validate Stack Sequences.md",
     "LeetCode/1614. Maximum Nesting Depth of the Parentheses.md",

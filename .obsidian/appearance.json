@@ -2,5 +2,8 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "noUnderline"
-  ]
+  ],
+  "cssTheme": "Obsidian gruvbox",
+  "textFontFamily": "CaskaydiaMono Nerd Font Mono",
+  "monospaceFontFamily": "BigBlueTerm437 Nerd Font"
 }
