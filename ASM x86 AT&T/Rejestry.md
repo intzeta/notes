@@ -4,8 +4,8 @@
 - `%ebx`
 - `%ecx`
 - `%edx`
-- `%edi`
-- `%esi`
+- `%edi` - Używany jest jako indeks (`DI` = Destination Index)
+- `%esi` - Używany jest jako indeks (`SI` = Source Index)
 
 ## Rejestry specjalnego przeznaczenia
 

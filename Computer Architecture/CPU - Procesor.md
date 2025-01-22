@@ -1,4 +1,4 @@
-**Procesor** odczytuje instrukcję z pamięci pojedynczo i wykonuje je, znane jest to jako cykl pobierania-wykonywania (fetch-execute cycle). Procesor zawiera następujące elementy, aby to osiągnąć:
+**Procesor** - odczytuje instrukcję z pamięci pojedynczo i wykonuje je, znane jest to jako cykl pobierania-wykonywania (fetch-execute cycle). Procesor zawiera następujące elementy, aby to osiągnąć:
 
 - **Licznik programu**  - Informuje komputer, skąd pobrać następną instrukcję. Przechowuje on adres pamięci następnej instrukcji, która ma zostać wykonana.
   
@@ -24,5 +24,5 @@ Procesor ma wiele sposobów na dostęp do danych, znane jako tryby adresowania. 
   
 - **Adresowanie pośrednie** - Rejestr posiada wskaźnik do adresu pamięci z danymi (Indirect addressing mode).
   
-- **Adresowanie z bazowym wskaźnikiem** - Łączy wartość w rejestrze (Base Pointer addressing mode).
+- **Adresowanie z bazowym wskaźnikiem** -Łączy wartość w rejestrze (Base Pointer addressing mode).
 
