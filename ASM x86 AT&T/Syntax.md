@@ -4,5 +4,7 @@
 
 **\_start** - Jest specjalnym symbolem który zawsze musi być oznaczony za pomocą **.globl** ponieważ oznacza on lokalizację rozpoczęcia programu
 
-##
+## Instrukcje itp.
+
+**$** - Znak dolar przed np. `movl $1, %eax` jedynką oznacza, że chcemy użyć trybu natychmiastowego (**[[CPU - Procesor#Metody dostępu do danych|Dostęp do danych]]**).
 
