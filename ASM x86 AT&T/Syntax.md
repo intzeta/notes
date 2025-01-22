@@ -6,5 +6,6 @@
 
 ## Instrukcje itp.
 
-**$** - Znak dolar przed np. `movl $1, %eax` jedynką oznacza, że chcemy użyć trybu natychmiastowego (**[[CPU - Procesor#Metody dostępu do danych|Dostęp do danych]]**).
+**$** - Znak dolar przed np. `movl $1, %eax` jedynką oznacza, że chcemy użyć trybu natychmiastowego (**[[CPU - Procesor#Metody dostępu do danych|Dostęp do danych]]**). Bez znaku dolara użylibyśmy adresowania bezpośredniego, załadowując co kolwiek będące pod adresem 1.
+
 

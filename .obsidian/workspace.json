@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Architecture/CPU - Procesor.md",
+                "file": "ASM x86 AT&T/Rejestry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU - Procesor"
+              "title": "Rejestry"
             }
           }
         ],
@@ -182,6 +182,8 @@
   },
   "active": "4d0d51c953d68b04",
   "lastOpenFiles": [
+    "ASM x86 AT&T/Instrukcje w ASM x86.md",
+    "Computer Architecture/CPU - Procesor.md",
     "ASM x86 AT&T/Syntax.md",
     "ASM x86 AT&T/Spis treści.md",
     "ASM x86 AT&T/Komentarz.md",
@@ -194,7 +196,6 @@
     "Algorithms And Data Structure/Heap & Priority Queue.md",
     "Algorithms And Data Structure/Sliding Windows.md",
     "Algorithms And Data Structure/Tries.md",
-    "Computer Architecture/CPU - Procesor.md",
     "LeetCode/20. Valid Parentheses.md",
     "Algorithms And Data Structure/Vectors.md",
     "Algorithms And Data Structure/Linked List.md",
@@ -209,7 +210,6 @@
     "ASM x86 AT&T",
     "Algorithms And Data Structure/Advanced Graphs.md",
     "Algorithms And Data Structure/Arrays.md",
-    "Algorithms And Data Structure/Backtracking.md",
     "Images/TheScienceOfHowHabitsWork.png",
     "Images/threelayersofbehaviorchange.png",
     "Images/LatentPotential.png",
