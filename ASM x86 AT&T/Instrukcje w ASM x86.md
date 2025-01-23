@@ -23,6 +23,7 @@ call, which requires the status code to be placed in `%ebx`.
 
 **Tryb natychmiastowy ($)** - Znak dolar przed np. `movl $1, %eax` jedynką oznacza, że chcemy użyć trybu natychmiastowego (**[[CPU - Procesor#Metody dostępu do danych|Dostęp do danych]]**). Bez znaku dolara użylibyśmy adresowania bezpośredniego, załadowując co kolwiek będące pod adresem 1.
 
+<<<<<<< HEAD
 #### Ogólna postać odwołań do adresów pamięci
 
 `adresLubOffset(%podstawaLubOffset, %index, mnożnik)`
@@ -58,3 +59,7 @@ movl (%eax), %ebx
 Jeżeli rejestr `%eax` posiadał by adres, moglibyśmy przenieść wartość spod tego adresu do rejestru `%ebx`.
 
 **Adresowanie z bazowym wskaźnikiem** - 
+=======
+**Adresowanie indeksowe** - `movl beginningAdress(, %indexRegister, wordSize), ...`
+Na przykład: `movl arr(, %edi, 4), %eax` - Zaczynając od pamięci `arr` + indeks z rejestru `%edi` * `wordSize` rozmiar w bajtach np. dla `.long` (4 bajty). Skonstruowana w taka sposób instrukcja użyje adresowanie indeksowego
+>>>>>>> origin/main
