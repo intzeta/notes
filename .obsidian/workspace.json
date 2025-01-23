@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASM x86 AT&T/Syntax.md",
+                "file": "ASM x86 AT&T/Instrukcje w ASM x86.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syntax"
+              "title": "Instrukcje w ASM x86"
             }
           },
           {
@@ -181,9 +181,9 @@
   },
   "active": "a4b3d03893ad0bfc",
   "lastOpenFiles": [
+    "Computer Architecture/CPU - Procesor.md",
     "ASM x86 AT&T/Instrukcje w ASM x86.md",
     "ASM x86 AT&T/Syntax.md",
-    "Computer Architecture/CPU - Procesor.md",
     "ASM x86 AT&T/Spis treści.md",
     "ASM x86 AT&T/Komentarz.md",
     "ASM x86 AT&T/Rejestry.md",
