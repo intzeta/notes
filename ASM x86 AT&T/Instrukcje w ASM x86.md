@@ -18,9 +18,7 @@ knows which system call we want to access by what we stored in the `%eax` regist
 be stored in the other registers. System call number 1 is the exit system
 call, which requires the status code to be placed in `%ebx`.
 
-
 ## Metody dostępu do danych - **[[CPU - Procesor#Metody dostępu do danych|Dostęp do danych]]**
-
 
 #### Ogólna postać odwołań do adresów pamięci
 
