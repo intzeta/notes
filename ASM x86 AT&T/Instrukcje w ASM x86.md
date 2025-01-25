@@ -11,6 +11,7 @@
 
 - `jmp`- Przejdź bezwarunkowo.
 
+
 Quick System Call Review: To recap - Operating System features are
 accessed through system calls. These are invoked by setting up the
 registers in a special way and issuing the instruction `int $0x80`. Linux
