@@ -69,9 +69,38 @@ Zmienna lokalna 2 -8(%ebp) i %esp
 
 Rejestr `%ebp` został specjalnie zrobiony w tym celu.
 
+Kiedy funkcja zakończy działanie wykonuje następujące czynności:
+- Zapisuje zwracaną wartość do rejestru `%eax`
+- Funkcja resetuje stos do poprzedniego stanu, przed wywołaniem funkcji
+- Zwraca kontrole do miejsca, z którego została wykonana. Dzieje się to za pomocą `ret`, która zdejmuje wartość z góry stosu i ustawia wskaźnik `%eip`, na tę wartość.
+
+Musimy zresetować stack do postaci gdzie `return address` jest na samej górze. Czyli:
 
 ```
 movl %ebp, %esp
 popl %ebp
 ret
 ```
+
+```
+#movl %ebp, %esp
+
+Parametr n         n * 4 + 4(%ebp)
+...
+Parametr 2         12(%ebp)
+Paramatr 1         8(%ebp)
+Return Address     4(%ebp)
+%ebp (%ebp) i (%esp)
+```
+
+```
+#popl %ebp
+
+Parametr n
+...
+Parametr 2
+Paramatr 1
+Return Address (%esp)
+```
+
+

@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Architecture/CPU - Procesor.md",
+                "file": "ASM x86 AT&T/Instrukcje w ASM x86.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CPU - Procesor"
+              "title": "Instrukcje w ASM x86"
             }
           },
           {
@@ -37,15 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASM x86 AT&T/Instrukcje w ASM x86.md",
+                "file": "ASM x86 AT&T/Zagadnienia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instrukcje w ASM x86"
+              "title": "Zagadnienia"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,12 +190,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4b3d03893ad0bfc",
+  "active": "40277502cbfacda9",
   "lastOpenFiles": [
-    "Komentarz.md",
-    "ASM x86 AT&T/Zagadnienia.md",
-    "Computer Architecture/CPU - Procesor.md",
     "ASM x86 AT&T/Instrukcje w ASM x86.md",
+    "Computer Architecture/CPU - Procesor.md",
+    "ASM x86 AT&T/Zagadnienia.md",
+    "Komentarz.md",
     "ASM x86 AT&T/Spis treści.md",
     "ASM x86 AT&T/Rejestry.md",
     "ASM x86 AT&T/Komentarz.md",
