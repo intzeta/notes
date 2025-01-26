@@ -1,6 +1,9 @@
-- `movl $1, %eax` - Kopiuje wartość
-- `int $0x80` - 
+- `movl source, destination` - Kopiuje wartość
+- `int $0x80` - Wywołuje przerwanie systemowa (syscall)
 - `cmpl $0, %eax` - `%eflags` rejestr
+- `pushl %eax` - Umieszcza wartość z rejestru lub pamięci na stosie
+- `popl %eax` - Pobiera wartość ze stosu, usuwa ją z niego i zapisuje wartość do rejestru lub pamięci
+- 
 ## Instrukcje skoku warunkowego i niewarunkowego
 
 - `je` (Jump if Equal) - Przejdź, jeżeli wartości są równe
@@ -23,20 +26,20 @@ call, which requires the status code to be placed in `%ebx`.
 
 #### Ogólna postać odwołań do adresów pamięci
 
-`adresLubOffset(%podstawaLubOffset, %index, mnożnik)`
+`addressOrOffset(%baseOrOffset, %index, multiplier)`
 
 **Gdzie:**
-- `adresLubOffset`, `mnożnik` - Constant
-- `%podstawaLubOffset`, `%index` - Rejestry
+- `addressOrOffset`, `multiplier` - Constant
+- `%baseOrOffset`, `%index` - Rejestry
 
 Jeżeli nie ma jakiegoś elementu, jest zastąpiony jako 0.
 
-**Tryb natychmiastowy ($)** - Znak dolar przed np. `movl $1, %eax` jedynką oznacza, że chcemy użyć trybu natychmiastowego (**[[CPU - Procesor#Metody dostępu do danych|Dostęp do danych]]**). Bez znaku dolara użylibyśmy adresowania bezpośredniego, załadowując co kolwiek będące pod adresem 1.
+**Tryb natychmiastowy ($)** - Znak dolar przed np. `movl $1, ...` jedynką oznacza, że chcemy użyć trybu natychmiastowego (**[[CPU - Procesor#Metody dostępu do danych|Dostęp do danych]]**). Bez znaku dolara użylibyśmy adresowania bezpośredniego, załadowując co kolwiek będące pod adresem 1.
 
 **Adresowanie indeksowe** - `movl beginningAdress(, %index, wordSize), ...`
-Na przykład: `movl arr(, %edi, 4), %eax` - Zaczynając od pamięci `arr` + indeks z rejestru `%edi` * `wordSize` rozmiar w bajtach np. dla `.long` (4 bajty). Skonstruowana w taka sposób instrukcja, bez `%podstawaLubOffset`, użyje adresowanie indeksowego.
+Na przykład: `movl arr(, %edi, 4), %eax` - Zaczynając od pamięci `arr` + indeks z rejestru `%edi` * `wordSize` rozmiar w bajtach np. dla `.long` (4 bajty). Skonstruowana w taka sposób instrukcja, bez `%baseOrOffset`, użyje adresowanie indeksowego.
 
-**Adresowanie bezpośrednie** - Użycie tylko `adresLubOffset` spowoduje załadowanie wartości na podanym adresie. Na przykład:
+**Adresowanie bezpośrednie** - Użycie tylko `addressOrOffset` spowoduje załadowanie wartości na podanym adresie. Na przykład:
 
 ```
 .section .data

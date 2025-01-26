@@ -4,13 +4,13 @@
 - `%ebx`
 - `%ecx`
 - `%edx`
-- `%edi` - Używany jest jako indeks (`DI` = Destination Index)
-- `%esi` - Używany jest jako indeks (`SI` = Source Index)
+- `%edi` - Używany jest jako indeks do celu (`DI` = Destination Index)
+- `%esi` - Używany jest jako indeks do źródła (`SI` = Source Index)
 
 ## Rejestry specjalnego przeznaczenia
 
 - `%ebp`
-- `%esp`
+- `%esp` - Jest to wskaźnik zawsze wskazujący na górę stosu (Stack)
 - `%eip`
 - `%eflags`
 
