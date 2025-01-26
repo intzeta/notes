@@ -28,6 +28,10 @@ movl 4(%esp), %eax
 
 ## Funkcje
 
+#### Rejestry po wejściu do funkcji zostaną wyczyszczone, oprócz rejestru `%ebp`
+
+Jeżeli chcemy zachować wartości z rejestru, trzeba przed podaniem parametrów funkcji dodać je do stosu.
+
 Przed wykonaniem funkcji, program wprowadza wszystkie parametry funkcji w odwrotnej kolejności. Następnie instrukcją `call` wskazuje, którą funkcję ma wykonać.
 Następnie umieszcza `return address` na stos, i zmienia rejestr `%eip` aby wskazywał na początek funkcji.
 
@@ -69,6 +73,8 @@ Zmienna lokalna 2 -8(%ebp) i %esp
 
 Rejestr `%ebp` został specjalnie zrobiony w tym celu.
 
+#### Wychodzenie z funkcji
+
 Kiedy funkcja zakończy działanie wykonuje następujące czynności:
 - Zapisuje zwracaną wartość do rejestru `%eax`
 - Funkcja resetuje stos do poprzedniego stanu, przed wywołaniem funkcji
@@ -81,6 +87,8 @@ movl %ebp, %esp
 popl %ebp
 ret
 ```
+
+Wygląd stosu po wykonaniu instrukcji: 
 
 ```
 #movl %ebp, %esp
@@ -102,5 +110,12 @@ Parametr 2
 Paramatr 1
 Return Address (%esp)
 ```
+
+Po wykonaniu funkcji trzeba usunąć parametry funkcji z stosu. Najprościej jest za pomocą instrukcji `addl` dodać do rejestru `%esp`, ilość parametrów * 4.
+
+
+
+
+
 
 
