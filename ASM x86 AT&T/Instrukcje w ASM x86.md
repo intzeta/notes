@@ -1,8 +1,8 @@
 - `movl source, destination` - Kopiuje wartość
 - `int $0x80` - Wywołuje przerwanie systemowa (syscall)
 - `cmpl $0, %eax` - `%eflags` rejestr
-- `pushl %eax` - Umieszcza wartość z rejestru lub pamięci na stosie
-- `popl %eax` - Pobiera wartość ze stosu, usuwa ją z niego i zapisuje wartość do rejestru lub pamięci
+- `pushl %eax` - Umieszcza wartość z rejestru lub pamięci na stosie. `%esp - 4`
+- `popl %eax` - Pobiera wartość ze stosu, usuwa ją z niego i zapisuje wartość do rejestru lub pamięci `%esp + 4`
 - 
 ## Instrukcje skoku warunkowego i niewarunkowego
 
@@ -11,9 +11,7 @@
 - `jge` (Jump if Greater or Equal) - Przejdź, jeżeli wartość źródłowa jest większa lub równa wartości docelowej.
 - `jl` (Jump if Less) - Przejdź, jeżeli wartość źródłowa jest mniejsza niż pierwsza wartość źródłowa.
 - `jle` (Jump if Less or Equal) - Przejdź, jeżeli wartość źródłowa jest mniejsza lub równa wartości docelowej.
-
 - `jmp`- Przejdź bezwarunkowo.
-
 
 Quick System Call Review: To recap - Operating System features are
 accessed through system calls. These are invoked by setting up the
