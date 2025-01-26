@@ -25,3 +25,6 @@ Jeżeli byśmy chcieli uzyskać wartość poniżej góry stosu, użyjemy adresow
 ```
 movl 4(%esp), %eax
 ```
+
+## Funkcje
+
