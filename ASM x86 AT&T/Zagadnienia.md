@@ -39,3 +39,14 @@ Paramatr 1
 Return Address (%esp)
 ```
 
+Potem trzeba zapisać rejestr wskaźnika bazowego `%ebp` za pomocą `pushl %ebp`. Używany jest do dostępu do parametrów i zmiennych lokalnych funkcji. Następnie wskaźnik `%esp` jest kopiowany do `%ebp` za pomocą `movl %esp, %ebp`. Przez co, `%ebp` staje się stałym odniesieniem do ramki stosu (stack frame).
+
+```
+Parametr n
+...
+Parametr 2
+Paramatr 1
+Return Address (%esp)
+%ebp (%esp) i (%ebp)
+```
+
