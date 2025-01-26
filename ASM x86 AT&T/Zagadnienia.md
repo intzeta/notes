@@ -39,14 +39,39 @@ Paramatr 1
 Return Address (%esp)
 ```
 
-Potem trzeba zapisać rejestr wskaźnika bazowego `%ebp` za pomocą `pushl %ebp`. Używany jest do dostępu do parametrów i zmiennych lokalnych funkcji. Następnie wskaźnik `%esp` jest kopiowany do `%ebp` za pomocą `movl %esp, %ebp`. Przez co, `%ebp` staje się stałym odniesieniem do ramki stosu (stack frame).
+Potem trzeba zapisać rejestr wskaźnika bazowego `%ebp` za pomocą `pushl %ebp`. Używany jest do dostępu do parametrów i zmiennych lokalnych funkcji. Następnie wskaźnik `%esp` jest kopiowany do `%ebp` za pomocą `movl %esp, %ebp`. Przez co, `%ebp` staje się stałym odniesieniem do ramki stosu (stack frame). `%ebp` pozwala zawsze uzyskać dostęp do parametrów funkcji, zmiennych lokalnych i adresu powrotu (return address).
 
 ```
 Parametr n
 ...
 Parametr 2
 Paramatr 1
-Return Address (%esp)
+Return Address
 %ebp (%esp) i (%ebp)
 ```
 
+Następnie funkcje rezerwuje miejsce na stosie dla zmiennych lokalnych. Wykonuje się to poprzez przemieszczenie wskaźnika stosu. Na przykład jeżeli potrzebujemy dwóch zmiennych lokalnych 4 bajtowych, zrobimy to za pomocą instrukcji: 
+
+```
+subl $8, %esp
+```
+
+```
+Parametr n         n * 4 + 4(%ebp)
+...
+Parametr 2         12(%ebp)
+Paramatr 1         8(%ebp)
+Return Address     4(%ebp)
+%ebp (%ebp)
+Zmienna lokalna 1 -4(%ebp)
+Zmienna lokalna 2 -8(%ebp) i %esp
+```
+
+Rejestr `%ebp` został specjalnie zrobiony w tym celu.
+
+
+```
+movl %ebp, %esp
+popl %ebp
+ret
+```
