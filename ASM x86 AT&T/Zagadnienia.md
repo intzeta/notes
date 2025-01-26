@@ -28,3 +28,14 @@ movl 4(%esp), %eax
 
 ## Funkcje
 
+Przed wykonaniem funkcji, program wprowadza wszystkie parametry funkcji w odwrotnej kolejności. Następnie instrukcją `call` wskazuje, którą funkcję ma wykonać.
+Następnie umieszcza `return address` na stos, i zmienia rejestr `%eip` aby wskazywał na początek funkcji.
+
+```
+Parametr n
+...
+Parametr 2
+Paramatr 1
+Return Address (%esp)
+```
+
