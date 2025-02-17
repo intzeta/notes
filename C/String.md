@@ -18,3 +18,4 @@
 
 
 `void *memcpy(void *s, const void *ct, size_t n)` - Kopiuje `n` znaków z `ct` do `s`, zwraca `s`.
+`void *memset(void *s, int ch, size_t n)` - Wstawia `ch` do pierwszych `n` znaków w `s`, zwraca `s`.
