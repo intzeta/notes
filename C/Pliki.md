@@ -14,6 +14,7 @@ Standardowe strumienie:
 `int fclose(FILE *fp)` - Odwrotność `fopen`, zwalnia wskaźnik `fp` i do tego czyści buffer.
 
 `int getc(FILE *fp)` - Odczytuje znak z pliku, strumienia.
+
 `int putc(int c, FILE *fp)` - Zapisuje znak do pliku, zwraca zapisany znak
 
 `char *fgets(char *line, int maxline, FILE *fp)` - Odczytuje następną linie (wraz z `'\n'`) do tablicy char. Odczytuje maksymalnie `maxline - 1`, z powodu `'\0'`. Zwraca `char *line`, a dla błędów i `EOF` zwraca `NULL`.
