@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,10 +205,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "669508c21fdcbafc",
+  "active": "40277502cbfacda9",
   "lastOpenFiles": [
-    "C/Pliki.md",
     "C/String.md",
+    "C/Pliki.md",
     "ASM x86 AT&T/Instrukcje w ASM x86.md",
     "ASM x86 AT&T/Spis treści.md",
     "ASM x86 AT&T/Rejestry.md",
