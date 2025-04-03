@@ -3,10 +3,13 @@
   "enabledCssSnippets": [
     "noUnderline"
   ],
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "",
   "textFontFamily": "",
   "monospaceFontFamily": "",
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "accentColor": "",
-  "showRibbon": false
+  "showRibbon": false,
+  "showViewHeader": true,
+  "baseFontSizeAction": false,
+  "nativeMenus": false
 }
