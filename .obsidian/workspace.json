@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shader.md",
+                "file": "Buffer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shader"
+              "title": "Buffer"
             }
           },
           {
@@ -197,9 +197,10 @@
   },
   "active": "ea13ba4baad26bd3",
   "lastOpenFiles": [
-    "Buffer.md",
     "Shader.md",
+    "Buffer.md",
     "Vertex Input.md",
+    "Attachments/vertex_attributes.png",
     "ASM x86 AT&T/Instrukcje w ASM x86.md",
     "ASM x86 AT&T/Rejestry.md",
     "ASM x86 AT&T/Zagadnienia.md",
@@ -232,11 +233,9 @@
     "Algorithms And Data Structure/Math & Geometry.md",
     "Algorithms And Data Structure/Linked List.md",
     "Algorithms And Data Structure/Intervals.md",
-    "Algorithms And Data Structure/Heap & Priority Queue.md",
     "C",
     "Computer Architecture",
     "ASM x86 AT&T",
-    "Images/TheScienceOfHowHabitsWork.png",
     "Books/Stephan R. Covey The 7 Habits Of Highly Effective People",
     "Books/Morgan Housel - The Psychology Of Money",
     "Books/David Goggins - Never Finished",
