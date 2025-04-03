@@ -1,30 +1,4 @@
-Given an array of integers `nums`, sort the array in ascending order and return it.
-
-You must solve the problem **without using any built-in** functions in `O(nlog(n))` time complexity and with the smallest space complexity possible.
-
-**Example 1:**
-
-`Input: nums = [5,2,3,1]
-`Output: [1,2,3,5]
-
-**Explanation:** After sorting the array, the positions of some numbers are not changed (for example, 2 and 3), while the positions of other numbers are changed (for example, 1 and 5).
-
-**Example 2:**
-
-`Input: nums = [5,1,1,2,0,0]
-`Output: [0,0,1,1,2,5]
-
-**Explanation:** Note that the values of nums are not necessairly unique.
-
-**Constraints:**
-
-- `1 <= nums.length <= 5 * 104`
-- `-5 * 104 <= nums[i] <= 5 * 104`
-
-
----
-#### Merge Sort O(n log n) [[Big O Notation]]
-
+#### [[Big O Notation]] O(n log n) 
 
 - Merge sort is done by dividing the Array into smaller part - Left Array and Right Array, until they are all only 1 element. We are doing it through **recursion**.
 
@@ -46,9 +20,6 @@ void mergeSort(std::vector<int>& array){
 }
 ```
 
-
-![[MergeSort1.excalidraw|100%]]
-
 - In the merge function we declare the sizes of the Array's - Left and Right, and also the index's. The first while loop condition check if the Left And Right array's aren't overflowing. Then If the value in the left Array is lower or equal to the value in the Right Array we add the value to the array and index i, we add one to the Left Index and go to the next value.
 
 - The 2 last while loops check if there are any left values. If yes it will add them to the array.
@@ -61,20 +32,24 @@ void merge(vector<int>& leftArray, vector<int>& rightArray, vector<int>& array){
 
     while(leftIndex < LeftSize && rightIndex < RightSize){
         if(leftArray[leftIndex] <= rightArray[rightIndex]){
-            array[arrayIndex++] = leftArray[leftIndex++];
+            array[arrayIndex] = leftArray[leftIndex];
+            leftIndex++;
         }else{
-            array[arrayIndex++] = rightArray[rightIndex++];
+            array[arrayIndex] = rightArray[rightIndex];
+            rightIndex++;
         }
+        arrayIndex++;
     }
 
     while(leftIndex < LeftSize){
-        array[arrayIndex++] = leftArray[leftIndex++];
+        array[arrayIndex] = leftArray[leftIndex];
+        arrayIndex++;
+        leftIndex++;
     }
     while(rightIndex < RightSize){
-        array[arrayIndex++] = rightArray[rightIndex++];
+        array[arrayIndex] = rightArray[rightIndex];
+        arrayIndex++;
+        rightIndex++;
     }
 }
 ```
-
-
-![[MergeSort2.excalidraw|100%]]

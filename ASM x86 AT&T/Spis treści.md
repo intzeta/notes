@@ -1,3 +1,0 @@
-#### **[[Zagadnienia]]**
-#### #### **[[Rejestry]]**
-#### **[[Komentarz]]**

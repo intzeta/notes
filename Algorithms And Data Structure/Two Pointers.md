@@ -1,3 +1,0 @@
-#### **[[Arrays]]**
-#### **[[Hash Maps & Hashing]]**
-

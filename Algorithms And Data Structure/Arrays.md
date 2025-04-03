@@ -1,3 +1,0 @@
-#### **[[Vectors]]**
-#### **[[Hash Maps & Hashing]]**
-
