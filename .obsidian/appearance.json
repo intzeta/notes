@@ -1,7 +1,8 @@
 {
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "noUnderline"
+    "noUnderline",
+    "biggerFontMath"
   ],
   "cssTheme": "",
   "textFontFamily": "",
