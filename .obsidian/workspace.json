@@ -55,12 +55,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Liniowa Algebra/Przestrzeń liniowa.md",
+                "file": "Matematyka/Liniowa Algebra/Przestrzeń liniowa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Przestrzeń liniowa"
+            }
+          },
+          {
+            "id": "2c4ceb7135bfd6f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematyka/Liniowa Algebra/Pojęcia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pojęcia"
+            }
+          },
+          {
+            "id": "1b3f2006071ac539",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematyka/Liniowa Algebra/Pojęcia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pojęcia"
             }
           },
           {
@@ -78,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,22 +251,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21b881ae11e6ff62",
+  "active": "1b3f2006071ac539",
   "lastOpenFiles": [
-    "Vertex Input.md",
-    "Liniowa Algebra/Przestrzeń liniowa.md",
-    "Liniowa Algebra",
-    "Buffer.md",
-    "Shader.md",
+    "Matematyka/Funkcje/Pojęcia.md",
+    "Matematyka/Liniowa Algebra/Pojęcia.md",
+    "Untitled 1",
+    "Matematyka/Funkcje",
+    "Computer Science/OpenGL/Buffer.md",
+    "Matematyka",
+    "Computer Science",
+    "Matematyka/Liniowa Algebra/Przestrzeń liniowa.md",
+    "Computer Science/OpenGL/Vertex Input.md",
+    "Matematyka/Liniowa Algebra",
+    "Computer Science/OpenGL/Shader.md",
     "Attachments/vertex_attributes.png",
-    "ASM x86 AT&T/Instrukcje w ASM x86.md",
-    "ASM x86 AT&T/Rejestry.md",
-    "ASM x86 AT&T/Zagadnienia.md",
+    "Computer Science/ASM x86 AT&T/Instrukcje w ASM x86.md",
+    "Computer Science/ASM x86 AT&T/Rejestry.md",
+    "Computer Science/ASM x86 AT&T/Zagadnienia.md",
     "Attachments/Big O Notation.png",
-    "Computer Architecture/CPU - Procesor.md",
-    "OpenGL",
-    "Algorithms And Data Structure/Merge Sort.md",
-    "Algorithms And Data Structure/Big O Notation.md",
+    "Computer Science/Computer Architecture/CPU - Procesor.md",
+    "Computer Science/OpenGL",
+    "Computer Science/Algorithms And Data Structure/Merge Sort.md",
+    "Computer Science/Algorithms And Data Structure/Big O Notation.md",
     "MergeSort2.excalidraw.md",
     "ASM x86 AT&T/Spis treści.md",
     "Attachments/LeetCode143_2.jpg",
@@ -261,14 +295,9 @@
     "Algorithms And Data Structure/Stack.md",
     "Algorithms And Data Structure/Sliding Windows.md",
     "Algorithms And Data Structure/Math & Geometry.md",
-    "Algorithms And Data Structure/Linked List.md",
     "C",
-    "Computer Architecture",
-    "ASM x86 AT&T",
-    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People",
-    "Books/Morgan Housel - The Psychology Of Money",
-    "Books/David Goggins - Never Finished",
-    "Books/David Goggins - Can't hurt me",
-    "Books/James Clear - Atomic Habit's"
+    "Computer Science/Computer Architecture",
+    "Computer Science/ASM x86 AT&T",
+    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People"
   ]
 }
