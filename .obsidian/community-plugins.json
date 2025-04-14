@@ -1,7 +1,4 @@
 [
-  "obsidian-excalidraw-plugin",
-  "highlightr-plugin",
-  "dataview",
-  "obsidian-tasks-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-tikzjax"
 ]

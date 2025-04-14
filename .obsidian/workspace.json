@@ -13,86 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vertex Input.md",
+                "file": "Matematyka/Funkcje/Pojęcia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vertex Input"
+              "title": "Pojęcia"
             }
           },
           {
-            "id": "ea13ba4baad26bd3",
+            "id": "ae0bf4aaf09943a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buffer.md",
+                "file": "Matematyka/Wartość Bezwzględna/Równania z wartością bezwzględną.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buffer"
+              "title": "Równania z wartością bezwzględną"
             }
           },
           {
-            "id": "b381fad571b54ab1",
+            "id": "c58daabbdcb48b8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vertex Input.md",
+                "file": "Matematyka/Wartość Bezwzględna/Nierówności z wartością bezwzględną.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vertex Input"
+              "title": "Nierówności z wartością bezwzględną"
             }
           },
           {
-            "id": "21b881ae11e6ff62",
+            "id": "ae23a689cb9add7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematyka/Liniowa Algebra/Przestrzeń liniowa.md",
+                "file": "Matematyka/Liniowa Algebra/Pojęcia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Przestrzeń liniowa"
-            }
-          },
-          {
-            "id": "2c4ceb7135bfd6f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematyka/Liniowa Algebra/Przestrzeń liniowa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Przestrzeń liniowa"
-            }
-          },
-          {
-            "id": "ebc337f04ffb0576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Buffer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Buffer"
+              "title": "Pojęcia"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -149,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 211.5
   },
   "right": {
     "id": "1798fa7c38444dbd",
@@ -227,29 +199,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "random-note:Open random note": false
     }
   },
-  "active": "2c4ceb7135bfd6f1",
+  "active": "ae23a689cb9add7b",
   "lastOpenFiles": [
-    "Matematyka/Liniowa Algebra/Pojęcia.md",
-    "Matematyka/Funkcje/Pojęcia.md",
     "Matematyka/Liniowa Algebra/Przestrzeń liniowa.md",
+    "Matematyka/Liniowa Algebra/Pojęcia.md",
+    "Matematyka/Funkcje/Przesunięcia równoległe funkcji.md",
+    "Matematyka/Funkcje/Pojęcia.md",
+    "Matematyka/Wartość Bezwzględna/Wartość Bezwględna.md",
+    "Matematyka/Wartość Bezwzględna/Równania z wartością bezwzględną.md",
+    "Matematyka/Wartość Bezwzględna/Nierówności z wartością bezwzględną.md",
+    "Matematyka/Wartość Bezwzględna",
+    "Computer Science/OpenGL/Vertex Input.md",
+    "Computer Science/OpenGL/Buffer.md",
+    "Computer Science/OpenGL/Shader.md",
     "Untitled 1",
     "Matematyka/Funkcje",
-    "Computer Science/OpenGL/Buffer.md",
     "Matematyka",
     "Computer Science",
-    "Computer Science/OpenGL/Vertex Input.md",
     "Matematyka/Liniowa Algebra",
-    "Computer Science/OpenGL/Shader.md",
     "Attachments/vertex_attributes.png",
     "Computer Science/ASM x86 AT&T/Instrukcje w ASM x86.md",
     "Computer Science/ASM x86 AT&T/Rejestry.md",
@@ -277,13 +254,8 @@
     "Algorithms And Data Structure/Two Pointers.md",
     "Algorithms And Data Structure/Tries.md",
     "Algorithms And Data Structure/Trees.md",
-    "Algorithms And Data Structure/Strings.md",
-    "Algorithms And Data Structure/Stack.md",
-    "Algorithms And Data Structure/Sliding Windows.md",
-    "Algorithms And Data Structure/Math & Geometry.md",
     "C",
     "Computer Science/Computer Architecture",
-    "Computer Science/ASM x86 AT&T",
-    "Books/Stephan R. Covey The 7 Habits Of Highly Effective People"
+    "Computer Science/ASM x86 AT&T"
   ]
 }

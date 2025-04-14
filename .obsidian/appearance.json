@@ -1,14 +1,13 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
-    "noUnderline",
-    "biggerFontMath"
+    "noUnderline"
   ],
   "cssTheme": "",
-  "textFontFamily": "",
+  "textFontFamily": "Latin Modern Roman,Latin Modern Math",
   "monospaceFontFamily": "",
-  "baseFontSize": 16,
-  "accentColor": "",
+  "baseFontSize": 21,
+  "accentColor": "#6000c8",
   "showRibbon": false,
   "showViewHeader": true,
   "baseFontSizeAction": false,
