@@ -1,10 +1,13 @@
 {
   "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "vimMode": false,
+  "vimMode": true,
   "attachmentFolderPath": "Attachments",
   "spellcheck": true,
   "showInlineTitle": true,
   "showLineNumber": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible"
 }

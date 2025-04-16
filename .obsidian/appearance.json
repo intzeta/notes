@@ -1,5 +1,5 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "noUnderline"
   ],
@@ -7,9 +7,10 @@
   "textFontFamily": "Latin Modern Roman,Latin Modern Math",
   "monospaceFontFamily": "",
   "baseFontSize": 21,
-  "accentColor": "#6000c8",
+  "accentColor": "",
   "showRibbon": false,
   "showViewHeader": true,
   "baseFontSizeAction": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "interfaceFontFamily": ""
 }

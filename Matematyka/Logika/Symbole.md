@@ -40,6 +40,12 @@ $$
 \text{T} & \text{T} & \text{T}\\
 \end{array}
 $$
+$$
+\begin{align}
+P \Rightarrow Q &\Leftrightarrow \neg P \vee Q \\
+P \Rightarrow Q &\Leftrightarrow \neg Q \Rightarrow \neg P
+\end{align}
+$$
 ##### Równoważność
 To wyrażenie o formie: **P wtedy i tylko wtedy, gdy Q**
 $$
