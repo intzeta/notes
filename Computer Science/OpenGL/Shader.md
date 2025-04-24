@@ -19,6 +19,10 @@ if (!success){
 
 ```
 
+#### Vertex Shader
+
+#### Fragment Shader
+Kalkuluje i ustawia kolor pixela, np. światło, cienie etc.
 ### Shader Program
 
 Shader program to obiekt który połączy kilka shaderów w jedność.

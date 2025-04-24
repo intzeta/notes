@@ -36,3 +36,10 @@ $$
 	\neg\forall P(x) \Leftrightarrow \exists x \neg P(x)
 \end{align}
 $$
+[[Kwantyfikatory#Łączność kwantyfikatorów|Proste wytłumaczenie]]
+$$
+\begin{align}
+	\exists x\left(P(x)\vee Q(x)\right) & \Leftrightarrow \exists xP(x) \vee \exists x Q(x) \\
+	\forall x\left(P(x)\wedge Q(x)\right) & \Leftrightarrow \forall xP(x) \wedge \forall xQ(x)
+\end{align}
+$$

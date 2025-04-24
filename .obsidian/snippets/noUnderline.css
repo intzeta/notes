@@ -23,3 +23,6 @@ span.hljs {
 .cm-line {
     line-height: 1.2; /* Try 1.5–2.0 for readability */
 }
+body {
+  --file-line-width:1200px;
+}

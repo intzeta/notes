@@ -4,10 +4,10 @@
     "noUnderline"
   ],
   "cssTheme": "",
-  "textFontFamily": "Latin Modern Roman,Latin Modern Math",
+  "textFontFamily": "",
   "monospaceFontFamily": "",
   "baseFontSize": 21,
-  "accentColor": "",
+  "accentColor": "#7f6df2",
   "showRibbon": false,
   "showViewHeader": true,
   "baseFontSizeAction": false,
