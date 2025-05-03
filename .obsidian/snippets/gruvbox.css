@@ -1,0 +1,48 @@
+/* Gruvbox Material Code Blocks for Obsidian */
+
+/* General Code Block Styling */
+.markdown-preview-section pre,
+.markdown-source-view pre {
+    background-color: #32302f; /* Dark gray background */
+    color: #ebdbb2; /* Light beige text */
+    border-radius: 5px;
+    padding: 12px;
+    border: 1px solid #3c3836; /* Slightly darker border for contrast */
+    font-family: 'Fira Code', monospace;
+    white-space: pre-wrap; /* Allow code to wrap if needed */
+}
+
+/* Code block comments */
+.cm-s-obsidian .cm-comment {
+    color: #7c6f64; /* Muted gray for comments */
+}
+
+/* Code block keywords (e.g., function names, types) */
+.cm-s-obsidian .cm-keyword {
+    color: #d79921; /* Yellow for keywords */
+}
+
+/* Code block strings (text inside quotes) */
+.cm-s-obsidian .cm-string {
+    color: #a89984; /* Light brown for strings */
+}
+
+/* Code block numbers (numbers in code) */
+.cm-s-obsidian .cm-number {
+    color: #d79921; /* Yellow for numbers */
+}
+
+/* Code block operators (e.g., =, +, -) */
+.cm-s-obsidian .cm-operator {
+    color: #fb4934; /* Red for operators */
+}
+
+/* Code block punctuation (e.g., commas, brackets) */
+.cm-s-obsidian .cm-punctuation {
+    color: #ebdbb2; /* Light beige for punctuation */
+}
+
+/* Code block function names */
+.cm-s-obsidian .cm-def {
+    color: #b8bb26; /* Greenish-yellow for function names */
+}

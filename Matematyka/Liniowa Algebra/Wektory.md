@@ -1,4 +1,4 @@
-Wektor to uporządkowana para liczb. Jeżeli wektor nie ma początku, to jest on wektorem swobodnym, oznaczony jako $\vec{v}$. Jeżeli natomiast wektor ma początek, to jest on wektorem zaczepionym, oznaczony jako $\vec{AB}$. 
+Wektor to uporządkowana para liczb. Jeżeli wektor nie ma początku, to jest on wektorem swobodnym, oznaczany jako $\vec{v}$. Jeżeli natomiast wektor ma początek, to jest on wektorem zaczepionym, oznaczony jako $\vec{AB}$. 
 
 Niech będą dane punkty $A = \left(x_1,y_1\right)$ i $B = \left(x_2, y_2\right)$, to współrzędne wektora $\vec{AB}$ określa wzór:$$\vec{AB} = \begin{bmatrix} \ x_2 - x_1 \ \\ \ y_2 - y_1 \ \end{bmatrix}$$Wektory mają również przedstawienie geometryczne na układzie współrzędnych, przykłady dla wektorów $\big[\begin{smallmatrix} \ 3 \ \\ \ 2 \ \end{smallmatrix}\big]$ i $\big[\begin{smallmatrix} \ -1.5 \ \\ \ -2.5 \ \end{smallmatrix}\big]$:
 
