@@ -1,1 +1,2 @@
 Niech $V$ będzie [[Przestrzeń liniowa|przestrzenią liniową]] nad ciałem $K$. Jeżeli $\vec{v}_1,\dots,\vec{v}_n$ to wektory $V$ i $a_1,\dots,a_n$ to skalary $V$, to kombinacja liniowa tych wektorów ma postać: $$ x = \sum^{n}_{i=1}a_i\vec{v}_i = a_1\vec{v}_1 + \dots + a_n\vec{v}_n$$
+#AlgebraLiniowa

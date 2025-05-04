@@ -13,4 +13,4 @@ Przykład: Film z gorylem, jak przydzielenie czyjejś rzeczy dużej ilości uwag
 
 Nauka rozpoznawania sytuacji, gdzie błędy mogą się częściej wydarzyć oraz unikanie błędów w sytuacji gdzie stawki są wysokie.
 
-
+#Książki

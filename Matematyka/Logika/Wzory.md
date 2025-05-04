@@ -43,3 +43,5 @@ $$
 	\forall x\left(P(x)\wedge Q(x)\right) & \Leftrightarrow \forall xP(x) \wedge \forall xQ(x)
 \end{align}
 $$
+
+#Logika 

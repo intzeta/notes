@@ -15,10 +15,12 @@ Wielomian $x^3 -8$ ma pierwiastek rzeczywisty
 Aby to udowodnić wystarczy zauważyć, że jest nim liczba 2. $\blacksquare$
 
 ### Dowód niekonstruktywny (Nonconstructive proof)
-Ustala, że istnieje jakiś obiekt z pewnymi własnościami istnieje, ale bez konstrukcji (czyli bez wyjaśnienia jak go znaleźć).
+Ustala, że istnieje jakiś obiekt z pewnymi własnościami, ale bez konstrukcji (czyli bez wyjaśnienia jak go znaleźć).
 
 Przykład:
 Istnieją dwie liczby niewymierne $a$ i $b$ takie, że $a^b$ to liczba wymierna.
 
-Jakoż iż $\sqrt{2}$ jest liczbą niewymierną to wtedy, $\sqrt{2}^\sqrt{2}$ jest liczbą wymierną, lub jeżeli jest liczbą niewymierną to $a = \sqrt{2}^\sqrt{2}$ i $b = \sqrt{2}$. To daje $\left(\sqrt{2}^{\sqrt{2}}\right)^\sqrt{2} = \sqrt{2}^2 = 2$, i jest to liczba wymierna o postaci $a^b$.
+Jakoż iż $\sqrt{2}$ jest liczbą niewymierną to wtedy, $\sqrt{2}^\sqrt{2}$ jest liczbą wymierną, lub jeżeli jest liczbą niewymierną to $a = \sqrt{2}^\sqrt{2}$ i $b = \sqrt{2}$. To daje $\left(\sqrt{2}^{\sqrt{2}}\right)^\sqrt{2} = \sqrt{2}^2 = 2$, i jest to liczba wymierna o postaci $a^b$. $\blacksquare$
+
+#Dowody 
 

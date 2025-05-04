@@ -12,3 +12,5 @@ $$
 \end{align}
 $$
 Dla nierówności z zagnieżdżona wartością bezwzględną, rozwiązuje się je w bardzo podobny sposób co równania, lecz trzeba pamiętać o znaku $\wedge, \vee$.
+
+#WartośćBezwględna

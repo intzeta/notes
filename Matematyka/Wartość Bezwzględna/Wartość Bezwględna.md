@@ -17,3 +17,5 @@ $$\left|a-b\right|$$
 $$\left|b-a\right|$$
 Obliczanie punkty równoległego dla punktów $a$ i $b$:
 $$p = \frac{a+b}{2}$$
+
+#WartośćBezwględna 

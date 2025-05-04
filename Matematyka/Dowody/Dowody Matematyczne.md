@@ -1,3 +1,4 @@
+#Dowody 
 ###### Przypuszczenie 1.
 Załóżmy, że $n \in \mathbb{Z}$, $n > 1$ i do tego $n$ nie jest liczba pierwszą. To wtedy $2^n - 1$ również nie jest liczbą pierwszą.
 

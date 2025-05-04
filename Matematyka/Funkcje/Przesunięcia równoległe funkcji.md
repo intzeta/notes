@@ -56,3 +56,4 @@ Dane jest funkcja $y = f(x)$, odbicie symetralne tej funkcji względem osi OY je
 \end{tikzpicture}
 \end{document}
 ```
+#Funkcje 

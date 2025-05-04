@@ -1,1 +1,3 @@
 Niech $S$ będzie podzbiorem [[Przestrzeń liniowa|przestrzeni liniowej]] $V$ nad ciałem $K$. To wtedy, rozpiętość liniowa zbioru $S$, oznaczona jako $span(S)$, to zbiór wszystkich [[Kombinacja liniowa|kombinacji liniowych]] [[Wektory|wektorów]] z $S$, czyli:$$span(S)=\left\{\sum^{n}_{i=1}{a_i\vec{v}_i}\;\middle|\;n\in\mathbb{N},\,\vec{v}_i\in S,\,a_i \in K\right\}$$Rozpiętość liniowa to najmniejsza podprzestrzeń liniowa zawierająca zbiór $S$.
+
+#AlgebraLiniowa

@@ -57,3 +57,4 @@ $$
 \text{T} & \text{T} & \text{T}\\
 \end{array}
 $$
+#Logika 

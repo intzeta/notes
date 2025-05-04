@@ -5,3 +5,5 @@ Iloczyn skalarny [[Wektory|wektorów]] $\vec{w} = \big[\begin{smallmatrix} \ w_x
 \cos{\theta} &= \frac{\vec{w}\cdot\vec{u}}{\left|\vec{w}\right|\left|\vec{u}\right|}
 \end{align}
 	$$Dzięki niemu można sprawdzić czy wektory $\vec{w}$ i $\vec{u}$ są do siebie prostopadłe, czyli kąt między nimi wynosi $\frac{\pi}{2}$ radianów lub $90^{\circ}$, a nawet czy są równoległe, dla $\vec{w} \cdot \vec{u} = 1$.
+
+#AlgebraLiniowa 

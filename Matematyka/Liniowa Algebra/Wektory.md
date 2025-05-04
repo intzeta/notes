@@ -43,3 +43,5 @@ Sumę, różnicę i iloczyn $\vec{v} = \big[\begin{smallmatrix} \ v_x \ \\ \ v_y
 	\end{bmatrix}, \, s \in \mathbb{R}
 \end{align}
 $$
+
+#AlgebraLiniowa

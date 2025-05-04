@@ -5,3 +5,5 @@ Dla dwóch zbiorów $X$ i $Y$ funkcją nazywa się każde przyporządkowanie el
 Jeśli funkcja $f$ przyporządkowuje elementom zbioru $X$ elementy zbioru $Y$, to można zapisać to jako:$$ f : X \rightarrow Y \quad f(x)=y$$Zapis $f:X \rightarrow Y$ to ogólny charakter funkcji, a $f(x) = y$ to konkretne odwzorowanie dla danego $x$.
 
 Funkcja przypisuje jedną wartość do każdego argumentu. Można to sprawdzić za pomocą *testu poziomej linii*.
+
+#Funkcje 

@@ -18,3 +18,5 @@ x = 1 \quad &\vee \quad x = 4 -4 \notin \langle6, +\infty)
 \end{align}
 $$
 Dla równań z zagnieżdżona wartością bezwzględną robi się to samo co w normalnych równiach, tylko że schodzi się "poziom" niżej, a nie wszystko na raz.
+
+#WartośćBezwględna 

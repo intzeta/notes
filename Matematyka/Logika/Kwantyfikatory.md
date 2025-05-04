@@ -18,3 +18,5 @@ $$
 	  &= \exists x P(x) \vee \exists x Q(x) \\ \\
 	L &= R
 \end{align}$$
+
+#Logika 

@@ -6,3 +6,4 @@ A \ \backslash \ B = \left\{x \ \middle | \ x \in A \wedge x \notin B\right\}
 
 \end{align}
 $$
+#Logika 

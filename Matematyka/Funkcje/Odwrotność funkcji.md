@@ -15,4 +15,5 @@ $$
 \end{align}
 $$
 Warto zaznaczyć, że dla każdego $x$ musi być inna wartość $y$, np. $f(x)=2x^2-9$ nie posiada odwrotność bo dla każdej wartości $y \neq 9$, $f^{-1}$ przyjmuje 2 wartości dla $y$.
-$
+
+#Funkcje 
