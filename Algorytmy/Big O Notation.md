@@ -1,9 +1,6 @@
-In Mathematics and Computer Science, **Big O notation** is a way of comparing rates of growth of different functions. It is often used to compare the efficiency of different Algorithms, which is done by calculating how much Memory is needed, and how much time it takes to complete.
-
-Examples:
 
 ![[Big O Notation.png]]
-## Common Data Structure Operations
+## Przykładowe struktury danych
 
 | Data Structure      | Time Complexity |             |             |             |             |             |             |             | Space Complexity |
 | ------------------- | --------------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ---------------- |
@@ -25,7 +22,7 @@ Examples:
 | KD Tree             | `Θ(log(n))`     | `Θ(log(n))` | `Θ(log(n))` | `Θ(log(n))` | `O(n)`      | `O(n)`      | `O(n)`      | `O(n)`      | `O(n)`           |
 
 
-## Array Sorting Algorithms
+## Sortowanie
 
 | Algorithm      | Time Complexity |                  |                  | Space Complexity |
 | -------------- | --------------- | ---------------- | ---------------- | ---------------- |

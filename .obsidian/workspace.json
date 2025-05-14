@@ -4,120 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "7063bca5ad165d02",
+        "id": "8de14ba9a0d9cd20",
         "type": "tabs",
-        "dimension": 53.771186440677965,
+        "dimension": 55.927835051546396,
         "children": [
           {
-            "id": "063ab6e79900c903",
+            "id": "d6a1b61390e019bf",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdf/Precalculus by Richard Rusczyk.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Precalculus by Richard Rusczyk"
-            }
-          },
-          {
-            "id": "28026d8b7c3ffa18",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdf/Precalculus Solutions by Naoki Sato and Richard Rusczyk.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Precalculus Solutions by Naoki Sato and Richard Rusczyk"
-            }
-          },
-          {
-            "id": "184628d0310a14b2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdf/Discrete Mathematics with Applications, 5th Edition by Susanna S. Epp (2020).pdf"
+                "file": "unnecessary/pdf/Discrete Mathematics with Applications, 5th Edition by Susanna S. Epp (2020).pdf"
               },
               "icon": "lucide-file-text",
               "title": "Discrete Mathematics with Applications, 5th Edition by Susanna S. Epp (2020)"
             }
           },
           {
-            "id": "23c6f08bad4a574f",
+            "id": "d569b0acb5ba7f7a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "pdf/Discrete Mathematics with Applications, 5th Edition by Susanna S. Epp (2020).pdf"
+                "file": "unnecessary/pdf/Discrete Mathematics with Applications, 5th Edition by Susanna S. Epp (2020).pdf"
               },
               "icon": "lucide-file-text",
               "title": "Discrete Mathematics with Applications, 5th Edition by Susanna S. Epp (2020)"
-            }
-          },
-          {
-            "id": "e58f538ee14d4232",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "0cefd2c0d033060e",
+        "id": "2e10961f8bcc2043",
         "type": "tabs",
-        "dimension": 46.228813559322035,
+        "dimension": 44.072164948453604,
         "children": [
           {
-            "id": "c433e8badcf1d8d5",
+            "id": "2a218c1126c88af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematyka/Arytmetyka/Potęgowanie.md",
+                "file": "Matematyka/Dowody/Dowody Matematyczne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potęgowanie"
-            }
-          },
-          {
-            "id": "e6f50e8baa5ff8c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematyka/Arytmetyka/Pierwiastkowanie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pierwiastkowanie"
-            }
-          },
-          {
-            "id": "41b6d2c93a669a88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logarytmy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Logarytmy"
+              "title": "Dowody Matematyczne"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 231.5
   },
   "right": {
     "id": "1798fa7c38444dbd",
@@ -259,12 +195,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41b6d2c93a669a88",
+  "active": "d6a1b61390e019bf",
   "lastOpenFiles": [
-    "pdf/Discrete Mathematics with Applications, 5th Edition by Susanna S. Epp (2020).pdf",
-    "Logarytmy.md",
-    "Matematyka/Arytmetyka/Pierwiastkowanie.md",
+    "Matematyka/Zadania/4-3-15-Discrete.png",
+    "unnecessary/pdf/Discrete Mathematics with Applications, 5th Edition by Susanna S. Epp (2020).pdf",
+    "Matematyka/Dowody/Dowody Matematyczne.md",
+    "Matematyka/Zadania/4-3-16-Discrete.png",
+    "Matematyka/Zadania/4-3-19-Discrete.png",
+    "Matematyka/Zadania/4-3-27-Discrete.png",
+    "Matematyka/Zadania/4-3-29-Discrete.png",
+    "Matematyka/Zadania/4-3-29-Discrete.png",
     "Matematyka/Arytmetyka/Potęgowanie.md",
+    "Matematyka/Zadania",
+    "Matematyka/Arytmetyka/Pierwiastkowanie.md",
+    "Untitled.md",
+    "Matematyka/Liniowa Algebra/Rozpiętość liniowa.md",
+    "Algorytmy/Stack/Shunting-yard Algorithm.md",
+    "Attachments/Pasted image 20250506185405.png",
+    "Attachments/Pasted image 20250506185355.png",
+    "Attachments/Pasted image 20250506185118.png",
+    "Attachments",
+    "Algorytmy/Big O Notation.md",
+    "Algorytmy/Stack",
+    "Algorytmy/Merge Sort.md",
+    "unnecessary",
+    "Algorytmy",
+    "unnecessary/pdf/Precalculus Solutions by Naoki Sato and Richard Rusczyk.pdf",
+    "unnecessary/pdf/Precalculus by Richard Rusczyk.pdf",
+    "Matematyka/Arytmetyka/Logarytmy.md",
     "Matematyka/Arytmetyka",
     "Matematyka/Logika/Kwantyfikatory.md",
     "Matematyka/Wartość Bezwzględna/Wartość Bezwględna.md",
@@ -274,7 +232,6 @@
     "Książki/Atomic Habits.md",
     "Książki/Think and Grow Rich.md",
     "Książki/Thinking Fast and Slow.md",
-    "Matematyka/Dowody/Dowody Matematyczne.md",
     "Matematyka/Logika/Zbiory - Logika.md",
     "Matematyka/Dowody/Rodzaje dowodów.md",
     "Matematyka/Funkcje/Odwrotność funkcji.md",
@@ -283,28 +240,7 @@
     "Matematyka/Funkcje/Złożenie funkcji (Kompozycja).md",
     "Matematyka/Liniowa Algebra/Kombinacja liniowa.md",
     "Matematyka/Liniowa Algebra/Niezależność liniowa.md",
-    "Matematyka/Liniowa Algebra/Przestrzeń liniowa.md",
-    "Matematyka/Liniowa Algebra/Rozpiętość liniowa.md",
-    "Matematyka/Liniowa Algebra/Wektory.md",
-    "Matematyka/Logika/Symbole.md",
-    "Matematyka/Logika/Wzory.md",
-    "pdf/Precalculus Solutions by Naoki Sato and Richard Rusczyk.pdf",
     "Matematyka/Teoria Liczb",
-    "Matematyka/Dowody",
-    "pdf/How to Prove It A Structured Approach (Daniel J. Velleman).pdf",
-    "codeforces",
-    "pdf/Precalculus by Richard Rusczyk.pdf",
-    "pdf/Precalculus Solutions by Naoki Sato and Richard Rusczyk.pdf.crdownload",
-    "pdf/Introduction to Linear Algebra Fifth Edition by Gilbert Strang.pdf",
-    "Attachments/obsidian-logo-gradient.png.svg",
-    "Attachments/obsidian-logo.png",
-    "Attachments/obsidian-logo-gradient.svg",
-    "Attachments/obsidian-icon.png",
-    "Attachments/obsidian-logo-gradient.png",
-    "Attachments/Pasted image 20250414212722.png",
-    "Attachments/vertex_attributes.png",
-    "Attachments/Big O Notation.png",
-    "Attachments/LeetCode143_2.jpg",
-    "Attachments/LeetCode148_1.jpg"
+    "Attachments/obsidian-logo-gradient.png.svg"
   ]
 }
