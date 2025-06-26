@@ -1,5 +1,5 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "noUnderline"
   ],
@@ -8,7 +8,7 @@
   "monospaceFontFamily": "",
   "baseFontSize": 21,
   "accentColor": "#7f6df2",
-  "showRibbon": false,
+  "showRibbon": true,
   "showViewHeader": true,
   "baseFontSizeAction": false,
   "nativeMenus": false,

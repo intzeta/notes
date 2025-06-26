@@ -11,14 +11,10 @@
             "id": "2a218c1126c88af2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematyka/Arytmetyka/Logarytmy.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Logarytmy"
+              "title": "New tab"
             }
           },
           {
@@ -27,16 +23,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trygonometria kąta ostrego.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trygonometria kąta ostrego"
+              "title": "README"
+            }
+          },
+          {
+            "id": "9d49f40e1ccd6b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Graphs/Rodzaje Grafów.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rodzaje Grafów"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,17 +181,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf56511a1120f4dc",
+  "active": "9d49f40e1ccd6b69",
   "lastOpenFiles": [
-    "Matematyka/Arytmetyka/Logarytmy.md",
+    "Matematyka/Trygonometria/Trygonometria kąta ostrego.md",
+    "Matematyka/Trygonometria/Jedynka Trygonometryczna.md",
+    "Computer Science/Graphs/Rodzaje Grafów.md",
+    "Matematyka/Funkcje/Złożenie funkcji (Kompozycja).md",
+    "Matematyka/Funkcje/Przesunięcia równoległe funkcji.md",
+    "Matematyka/Funkcje/Pojęcia.md",
+    "Matematyka/Funkcje/Odwrotność funkcji.md",
+    "Attachments/Pasted image 20250626123440.png",
+    "Attachments/Pasted image 20250626122509.png",
+    "Computer Science/OpenGL/Graphic Pipeline.md",
+    "README.md",
+    "Computer Science/Graphs",
+    "Other",
+    "Attachments/Pasted image 20250506185355.png",
+    "Attachments/Pasted image 20250506185405.png",
+    "Attachments/Pasted image 20250506185118.png",
     "Trygonometria kąta ostrego.md",
     "Matematyka/Trygonometria",
+    "Matematyka/Arytmetyka/Logarytmy.md",
     "Matematyka/Arytmetyka/Pierwiastkowanie.md",
     "Matematyka/Arytmetyka/Potęgowanie.md",
     "Matematyka/Dowody/Dowody Matematyczne.md",
@@ -192,37 +219,22 @@
     "Matematyka/Zadania/4-3-19-Discrete.png",
     "Matematyka/Zadania/4-3-27-Discrete.png",
     "Matematyka/Zadania/4-3-29-Discrete.png",
-    "Matematyka/Zadania/4-3-29-Discrete.png",
     "Matematyka/Zadania",
     "Matematyka/Liniowa Algebra/Rozpiętość liniowa.md",
-    "Algorytmy/Stack/Shunting-yard Algorithm.md",
-    "Attachments/Pasted image 20250506185405.png",
-    "Attachments/Pasted image 20250506185355.png",
-    "Attachments/Pasted image 20250506185118.png",
+    "Computer Science/Algorytmy/Stack/Shunting-yard Algorithm.md",
     "Attachments",
-    "Algorytmy/Big O Notation.md",
-    "Algorytmy/Stack",
+    "Computer Science/Algorytmy/Big O Notation.md",
+    "Computer Science/Algorytmy/Stack",
     "Algorytmy/Merge Sort.md",
     "unnecessary",
-    "Algorytmy",
+    "Computer Science/Algorytmy",
     "unnecessary/pdf/Precalculus Solutions by Naoki Sato and Richard Rusczyk.pdf",
-    "unnecessary/pdf/Precalculus by Richard Rusczyk.pdf",
-    "Matematyka/Arytmetyka",
     "Matematyka/Logika/Kwantyfikatory.md",
     "Matematyka/Wartość Bezwzględna/Wartość Bezwględna.md",
     "Matematyka/Wartość Bezwzględna/Równania z wartością bezwzględną.md",
     "Matematyka/Wartość Bezwzględna/Nierówności z wartością bezwzględną.md",
     "Matematyka/Liniowa Algebra/Iloczyn skalarny (Dot Product).md",
-    "Książki/Atomic Habits.md",
-    "Książki/Think and Grow Rich.md",
-    "Książki/Thinking Fast and Slow.md",
-    "Matematyka/Logika/Zbiory - Logika.md",
-    "Matematyka/Dowody/Rodzaje dowodów.md",
-    "Matematyka/Funkcje/Odwrotność funkcji.md",
-    "Matematyka/Funkcje/Pojęcia.md",
-    "Matematyka/Funkcje/Przesunięcia równoległe funkcji.md",
-    "Matematyka/Funkcje/Złożenie funkcji (Kompozycja).md",
-    "Matematyka/Liniowa Algebra/Kombinacja liniowa.md",
-    "Attachments/obsidian-logo-gradient.png.svg"
+    "Other/Książki/Atomic Habits.md",
+    "Other/Książki/Think and Grow Rich.md"
   ]
 }
